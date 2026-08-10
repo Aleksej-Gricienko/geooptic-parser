@@ -1,0 +1,101 @@
+# ================================
+# Go
+# ================================
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary / coverage
+*.test
+*.out
+coverage.out
+coverage.html
+
+# Go workspace
+go.work
+go.work.sum
+
+
+# ================================
+# Environment / secrets
+# ================================
+
+.env
+.env.*
+!.env.example
+
+# Local configuration
+config.local.*
+config.local.*.json
+
+
+# ================================
+# IDE
+# ================================
+
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+
+# ================================
+# OS
+# ================================
+
+.DS_Store
+Thumbs.db
+
+
+# ================================
+# Logs
+# ================================
+
+*.log
+logs/
+
+
+# ================================
+# Parser output
+# ================================
+
+# Downloaded documents
+documents/
+downloads/
+output/
+tmp/
+temp/
+
+# Generated/imported files
+*.sql
+*.sql.gz
+*.zip
+*.tar
+*.tar.gz
+
+# Screenshots / debug output
+screenshots/
+
+
+# ================================
+# Chromium / browser data
+# ================================
+
+chrome-data/
+chromium-data/
+browser-data/
+user-data/
+profile/
+
+
+# ================================
+# Local caches
+# ================================
+
+.cache/
+.cache-*

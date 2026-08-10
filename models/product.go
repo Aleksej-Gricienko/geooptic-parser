@@ -8,6 +8,7 @@ type ProductDocument struct {
 
 type Product struct {
 	Name            string            `json:"name"`
+	Slug            string            `json:"slug"`
 	URL             string            `json:"url"`
 	DescriptionHTML string            `json:"description_html"`
 	DescriptionText string            `json:"description_text"`

@@ -1,4 +1,4 @@
-package internal
+package parser
 
 import (
 	"fmt"
@@ -214,7 +214,11 @@ func parseDocuments(doc *goquery.Document) []models.ProductDocument {
 			return
 		}
 
-		if !strings.HasSuffix(strings.ToLower(href), ".pdf") {
+		lower := strings.ToLower(href)
+
+		if !strings.HasSuffix(lower, ".pdf") &&
+			!strings.HasSuffix(lower, ".ppt") &&
+			!strings.HasSuffix(lower, ".pptx") {
 			return
 		}
 
@@ -226,13 +230,21 @@ func parseDocuments(doc *goquery.Document) []models.ProductDocument {
 
 		name := strings.TrimSpace(s.Text())
 		if name == "" || name == "Скачать" {
-			name = strings.TrimSuffix(filepath.Base(href), ".pdf")
+			base := filepath.Base(href)
+			ext := filepath.Ext(base)
+			name = strings.TrimSuffix(base, ext)
 		}
 		docs = append(docs, models.ProductDocument{
 			Name: name,
 			URL:  href,
 		})
 	})
+	fmt.Println("=== Documents ===")
 
+	for _, d := range docs {
+		fmt.Println(d.Name)
+		fmt.Println(d.URL)
+		fmt.Println()
+	}
 	return docs
 }

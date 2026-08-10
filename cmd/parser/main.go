@@ -3,16 +3,16 @@ package main
 import (
 	"log"
 
-	"geooptic-parser-chromedp/internal"
+	"geooptic-parser-chromedp/internal/parser"
 )
 
 func main() {
-	ctx, cancel := internal.NewBrowser()
+	ctx, cancel := parser.NewBrowser()
 	defer cancel()
 
-	parser := internal.NewParser(ctx)
+	p := parser.NewParser(ctx)
 
-	if err := parser.Run(); err != nil {
+	if err := p.Run(); err != nil {
 		log.Fatal(err)
 	}
 

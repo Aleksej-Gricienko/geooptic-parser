@@ -1,4 +1,4 @@
-package internal
+package parser
 
 import (
 	"context"
@@ -38,9 +38,9 @@ func (p *Parser) Run() error {
 	}
 
 	// ↓ Скачиваем изображения
-	//if err := DownloadImages(products); err != nil {
-	//	return err
-	//}
+	if err := DownloadImages(products); err != nil {
+		return err
+	}
 
 	// ↓ Сохраняем товары
 	if err := DownloadDocuments(products); err != nil {

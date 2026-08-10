@@ -1,4 +1,4 @@
-package internal
+package parser
 
 import (
 	"fmt"
@@ -11,13 +11,14 @@ import (
 	"geooptic-parser-chromedp/models"
 )
 
-const ImageRoot = "/var/www/leica-cms/upload/image/catalog/Categories/ndt-instruments"
+const ImageRoot = "/var/www/leica-cms/upload/image/catalog/Categories/total-stations"
 
 func createSlug(name string) string {
 	name = strings.ToLower(name)
 	name = strings.ReplaceAll(name, " ", "-")
 	name = strings.ReplaceAll(name, "/", "-")
 	name = strings.ReplaceAll(name, "\\", "-")
+	name = strings.ReplaceAll(name, "\"", "-")
 	return name
 }
 func downloadFile(url, filename string) error {

@@ -1,4 +1,4 @@
-package internal
+package parser
 
 import (
 	"fmt"
@@ -9,6 +9,22 @@ import (
 )
 
 const DocumentRoot = "/var/www/leica-cms/upload/documents/catalog/Categories/total-stations"
+
+func sanitizeFilename(name string) string {
+	replacer := strings.NewReplacer(
+		"/", "-",
+		"\\", "-",
+		":", "-",
+		"\"", "",
+		"*", "",
+		"?", "",
+		"<", "",
+		">", "",
+		"|", "",
+	)
+
+	return replacer.Replace(strings.TrimSpace(name))
+}
 
 func DownloadDocuments(products []models.Product) error {
 
@@ -32,10 +48,16 @@ func DownloadDocuments(products []models.Product) error {
 
 		for i, doc := range product.Documents {
 
-			filename := doc.Name + ".pdf"
+			ext := strings.ToLower(filepath.Ext(doc.URL))
 
-			if !strings.HasSuffix(strings.ToLower(filename), ".pdf") {
-				filename += ".pdf"
+			if ext == "" {
+				ext = ".pdf"
+			}
+
+			filename := sanitizeFilename(doc.Name)
+
+			if !strings.HasSuffix(strings.ToLower(filename), ext) {
+				filename += ext
 			}
 
 			fullPath := filepath.Join(productDir, filename)
