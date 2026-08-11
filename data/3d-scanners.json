@@ -58,37 +58,37 @@
       {
         "name": "870891_Leica_RTC360_UM_v1.0.1_en",
         "url": "https://www.geooptic.ru/static/files/870891_Leica_RTC360_UM_v1.0.1_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/наземный-лазерный-сканер-leica-rtc360/870891_Leica_RTC360_UM_v1.0.1_en.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/870891_Leica_RTC360_UM_v1.0.1_en.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/наземный-лазерный-сканер-leica-rtc360/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Технические характеристики Leica RTC360",
         "url": "https://www.geooptic.ru/static/files/Leica-RTC360-Product-Specifications.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/наземный-лазерный-сканер-leica-rtc360/Технические характеристики Leica RTC360.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Технические характеристики Leica RTC360.pdf"
       },
       {
         "name": "Краткая инструкция Leica RTC360",
         "url": "https://www.geooptic.ru/static/files/872515_Leica_RTC360_QG_v1.0.0_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/наземный-лазерный-сканер-leica-rtc360/Краткая инструкция Leica RTC360.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Краткая инструкция Leica RTC360.pdf"
       },
       {
         "name": "Leica_RTC360_Equipmentlist_v2-1-0_en.pdf",
         "url": "https://www.geooptic.ru/static/files/Leica_RTC360_Equipmentlist_v2-1-0_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/наземный-лазерный-сканер-leica-rtc360/Leica_RTC360_Equipmentlist_v2-1-0_en.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica_RTC360_Equipmentlist_v2-1-0_en.pdf"
       },
       {
         "name": "Описание типа СИ Leica RTC360",
         "url": "https://www.geooptic.ru/static/files/Opisanie_tipa_si_Leica_RTC360.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/наземный-лазерный-сканер-leica-rtc360/Описание типа СИ Leica RTC360.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Описание типа СИ Leica RTC360.pdf"
       },
       {
         "name": "Методика поверки RTC360",
         "url": "https://www.geooptic.ru/static/files/Meodika_poverki_Leica_RTC360.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/наземный-лазерный-сканер-leica-rtc360/Методика поверки RTC360.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Методика поверки RTC360.pdf"
       }
     ]
   },
@@ -146,7 +146,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk360-g2-+-register-360-plus-permanent-(blk-edition)/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -209,57 +209,57 @@
       {
         "name": "Rukovodstvo_polzovatelya_Leica_P30_40_50",
         "url": "https://www.geooptic.ru/static/files/Rukovodstvo_polzovatelya_Leica_P30_40_50.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p30/Rukovodstvo_polzovatelya_Leica_P30_40_50.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Rukovodstvo_polzovatelya_Leica_P30_40_50.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p30/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Какой 3D лазерный сканер мне подходит?",
         "url": "https://www.geooptic.ru/static/files/kakoy-3d-lazernyy-skaner-mne-podhodit.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p30/Какой 3D лазерный сканер мне подходит.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Какой 3D лазерный сканер мне подходит.pdf"
       },
       {
         "name": "3D-сканирование. Применение в проектировании и строительстве",
         "url": "https://www.geooptic.ru/static/files/primenenie-v-proektirovanie-i-stroitelstve.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p30/3D-сканирование. Применение в проектировании и строительстве.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/3D-сканирование. Применение в проектировании и строительстве.pptx"
       },
       {
         "name": "Сканирование моста",
         "url": "https://www.geooptic.ru/static/files/skanirovanie-mosta.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p30/Сканирование моста.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/Сканирование моста.pptx"
       },
       {
         "name": "Технические характеристики Leica ScanStation P30/P40",
         "url": "https://www.geooptic.ru/static/files/scanstation-p30-p40.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p30/Технические характеристики Leica ScanStation P30-P40.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Технические характеристики Leica ScanStation P30-P40.pdf"
       },
       {
         "name": "Leica Cyclone and Leica CloudWorx Technical Specifications",
         "url": "https://www.geooptic.ru/static/files/Leica_Cyclone_and_CloudWorx_DS_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p30/Leica Cyclone and Leica CloudWorx Technical Specifications.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica Cyclone and Leica CloudWorx Technical Specifications.pdf"
       },
       {
         "name": "Сканирование резервуаров",
         "url": "https://www.geooptic.ru/static/files/skanirovanie-vertikalnykh-rezervuarov.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p30/Сканирование резервуаров.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/Сканирование резервуаров.pptx"
       },
       {
         "name": "829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf",
         "url": "https://www.geooptic.ru/static/files/829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p30/829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf"
       },
       {
         "name": "Описание типа СИ Leica ScanStation P30, Leica ScanStation P40",
         "url": "https://www.geooptic.ru/static/files/Opisanie_tipa_si_Leica_ScanStation_ P30_P40.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p30/Описание типа СИ Leica ScanStation P30, Leica ScanStation P40.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Описание типа СИ Leica ScanStation P30, Leica ScanStation P40.pdf"
       },
       {
         "name": "Методика поверки Leica ScanStation P30, Leica ScanStation P40",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_ScanStation_P30_P40.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p30/Методика поверки Leica ScanStation P30, Leica ScanStation P40.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Методика поверки Leica ScanStation P30, Leica ScanStation P40.pdf"
       }
     ]
   },
@@ -318,7 +318,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p50-+-register-+-3dr-+-cloudworx/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -383,57 +383,57 @@
       {
         "name": "Rukovodstvo_polzovatelya_Leica_P30_40_50",
         "url": "https://www.geooptic.ru/static/files/Rukovodstvo_polzovatelya_Leica_P30_40_50.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p40/Rukovodstvo_polzovatelya_Leica_P30_40_50.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Rukovodstvo_polzovatelya_Leica_P30_40_50.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p40/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Сканирование моста",
         "url": "https://www.geooptic.ru/static/files/skanirovanie-mosta.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p40/Сканирование моста.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/Сканирование моста.pptx"
       },
       {
         "name": "Технические характеристики Leica ScanStation P30/P40",
         "url": "https://www.geooptic.ru/static/files/scanstation-p30-p40.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p40/Технические характеристики Leica ScanStation P30-P40.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Технические характеристики Leica ScanStation P30-P40.pdf"
       },
       {
         "name": "Leica Cyclone and Leica CloudWorx Technical Specifications",
         "url": "https://www.geooptic.ru/static/files/Leica_Cyclone_and_CloudWorx_DS_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p40/Leica Cyclone and Leica CloudWorx Technical Specifications.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica Cyclone and Leica CloudWorx Technical Specifications.pdf"
       },
       {
         "name": "3D-сканирование. Применение в проектировании и строительстве",
         "url": "https://www.geooptic.ru/static/files/primenenie-v-proektirovanie-i-stroitelstve.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p40/3D-сканирование. Применение в проектировании и строительстве.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/3D-сканирование. Применение в проектировании и строительстве.pptx"
       },
       {
         "name": "Какой 3D лазерный сканер мне подходит?",
         "url": "https://www.geooptic.ru/static/files/kakoy-3d-lazernyy-skaner-mne-podhodit.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p40/Какой 3D лазерный сканер мне подходит.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Какой 3D лазерный сканер мне подходит.pdf"
       },
       {
         "name": "Сканирование резервуаров",
         "url": "https://www.geooptic.ru/static/files/skanirovanie-vertikalnykh-rezervuarov.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p40/Сканирование резервуаров.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/Сканирование резервуаров.pptx"
       },
       {
         "name": "829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf",
         "url": "https://www.geooptic.ru/static/files/829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p40/829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf"
       },
       {
         "name": "Описание типа СИ Leica ScanStation P30, Leica ScanStation P40",
         "url": "https://www.geooptic.ru/static/files/Opisanie_tipa_si_Leica_ScanStation_ P30_P40.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p40/Описание типа СИ Leica ScanStation P30, Leica ScanStation P40.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Описание типа СИ Leica ScanStation P30, Leica ScanStation P40.pdf"
       },
       {
         "name": "Методика поверки Leica ScanStation P30, Leica ScanStation P40",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_ScanStation_P30_P40.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p40/Методика поверки Leica ScanStation P30, Leica ScanStation P40.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Методика поверки Leica ScanStation P30, Leica ScanStation P40.pdf"
       }
     ]
   },
@@ -490,7 +490,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk360-se/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -554,47 +554,47 @@
       {
         "name": "Rukovodstvo_polzovatelya_Leica_P30_40_50",
         "url": "https://www.geooptic.ru/static/files/Rukovodstvo_polzovatelya_Leica_P30_40_50.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p50/Rukovodstvo_polzovatelya_Leica_P30_40_50.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Rukovodstvo_polzovatelya_Leica_P30_40_50.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p50/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Технические характеристики Leica ScanStation P50",
         "url": "https://www.geooptic.ru/static/files/leica-scanstation-p50-ds.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p50/Технические характеристики Leica ScanStation P50.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Технические характеристики Leica ScanStation P50.pdf"
       },
       {
         "name": "3D-сканирование. Применение в проектировании и строительстве",
         "url": "https://www.geooptic.ru/static/files/primenenie-v-proektirovanie-i-stroitelstve.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p50/3D-сканирование. Применение в проектировании и строительстве.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/3D-сканирование. Применение в проектировании и строительстве.pptx"
       },
       {
         "name": "Сканирование моста",
         "url": "https://www.geooptic.ru/static/files/skanirovanie-mosta.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p50/Сканирование моста.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/Сканирование моста.pptx"
       },
       {
         "name": "Leica Cyclone and Leica CloudWorx Technical Specifications",
         "url": "https://www.geooptic.ru/static/files/Leica_Cyclone_and_CloudWorx_DS_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p50/Leica Cyclone and Leica CloudWorx Technical Specifications.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica Cyclone and Leica CloudWorx Technical Specifications.pdf"
       },
       {
         "name": "Сканирование резервуаров",
         "url": "https://www.geooptic.ru/static/files/skanirovanie-vertikalnykh-rezervuarov.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p50/Сканирование резервуаров.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/Сканирование резервуаров.pptx"
       },
       {
         "name": "Какой 3D лазерный сканер мне подходит?",
         "url": "https://www.geooptic.ru/static/files/kakoy-3d-lazernyy-skaner-mne-podhodit.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p50/Какой 3D лазерный сканер мне подходит.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Какой 3D лазерный сканер мне подходит.pdf"
       },
       {
         "name": "829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf",
         "url": "https://www.geooptic.ru/static/files/829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-scanstation-p50/829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf"
       }
     ]
   },
@@ -651,7 +651,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-rtc300/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -709,12 +709,12 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk360-g2/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Технические характеристики нового BLK360 2022 год.pdf",
         "url": "https://www.geooptic.ru/static/files/leica_blk360-specsheet_geooptic_rus.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk360-g2/Технические характеристики нового BLK360 2022 год.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Технические характеристики нового BLK360 2022 год.pdf"
       }
     ]
   },
@@ -769,7 +769,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-rtc500/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -824,7 +824,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-rtc700/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -881,7 +881,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk360-se-essentials/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -940,7 +940,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk360-g2-advanced-pack/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -978,17 +978,17 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk2go/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Описание типа СИ Leica BLK2GO",
         "url": "https://www.geooptic.ru/static/files/Opisanie_tipa_si_Leica_BLK2GO.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk2go/Описание типа СИ Leica BLK2GO.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Описание типа СИ Leica BLK2GO.pdf"
       },
       {
         "name": "Методика поверки Leica BLK2GO",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_BLK2GO.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk2go/Методика поверки Leica BLK2GO.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Методика поверки Leica BLK2GO.pdf"
       }
     ]
   },
@@ -1050,17 +1050,17 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/наземный-лазерный-сканер-leica-rtc360-+-register-360-plus/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Описание типа СИ Leica RTC360",
         "url": "https://www.geooptic.ru/static/files/Opisanie_tipa_si_Leica_RTC360.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/наземный-лазерный-сканер-leica-rtc360-+-register-360-plus/Описание типа СИ Leica RTC360.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Описание типа СИ Leica RTC360.pdf"
       },
       {
         "name": "Методика поверки RTC360",
         "url": "https://www.geooptic.ru/static/files/Meodika_poverki_Leica_RTC360.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/наземный-лазерный-сканер-leica-rtc360-+-register-360-plus/Методика поверки RTC360.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Методика поверки RTC360.pdf"
       }
     ]
   },
@@ -1122,17 +1122,17 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-сканера-leica-rtc360-+-register-360-plus-+-cyclone-3dr-pro/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Описание типа СИ Leica RTC360",
         "url": "https://www.geooptic.ru/static/files/Opisanie_tipa_si_Leica_RTC360.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-сканера-leica-rtc360-+-register-360-plus-+-cyclone-3dr-pro/Описание типа СИ Leica RTC360.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Описание типа СИ Leica RTC360.pdf"
       },
       {
         "name": "Методика поверки RTC360",
         "url": "https://www.geooptic.ru/static/files/Meodika_poverki_Leica_RTC360.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-сканера-leica-rtc360-+-register-360-plus-+-cyclone-3dr-pro/Методика поверки RTC360.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Методика поверки RTC360.pdf"
       }
     ]
   },
@@ -1194,17 +1194,17 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-сканера-leica-rtc360-+-register-360-plus-+-cyclone-3dr-pro-+-cloudworx/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Описание типа СИ Leica RTC360",
         "url": "https://www.geooptic.ru/static/files/Opisanie_tipa_si_Leica_RTC360.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-сканера-leica-rtc360-+-register-360-plus-+-cyclone-3dr-pro-+-cloudworx/Описание типа СИ Leica RTC360.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Описание типа СИ Leica RTC360.pdf"
       },
       {
         "name": "Методика поверки RTC360",
         "url": "https://www.geooptic.ru/static/files/Meodika_poverki_Leica_RTC360.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-сканера-leica-rtc360-+-register-360-plus-+-cyclone-3dr-pro-+-cloudworx/Методика поверки RTC360.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Методика поверки RTC360.pdf"
       }
     ]
   },
@@ -1293,57 +1293,57 @@
       {
         "name": "819203_Leica_TS60_MS60_TM60_UM_v4.0.0_ru",
         "url": "https://www.geooptic.ru/static/files/819203_Leica_TS60_MS60_TM60_UM_v4.0.0_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-+-cs35/819203_Leica_TS60_MS60_TM60_UM_v4.0.0_ru.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/819203_Leica_TS60_MS60_TM60_UM_v4.0.0_ru.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-+-cs35/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Технические характеристики Leica MS60",
         "url": "https://www.geooptic.ru/static/files/leica-ms60-ds.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-+-cs35/Технические характеристики Leica MS60.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Технические характеристики Leica MS60.pdf"
       },
       {
         "name": "Leica TS16 - Leica MS60 - Leica TS60 | Описание типа средств измерений № 60167 (2015 год)",
         "url": "https://www.geooptic.ru/static/files/61950-15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-+-cs35/Leica TS16 - Leica MS60 - Leica TS60  Описание типа средств измерений № 60167 (2015 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica TS16 - Leica MS60 - Leica TS60  Описание типа средств измерений № 60167 (2015 год).pdf"
       },
       {
         "name": "Каталог: HI-END тахеометры Leica MS60 / TS60 / TM60 Equipment List 2020",
         "url": "https://www.geooptic.ru/static/files/837008_Leica_Nova_TPS_MS60_TS60_TM60_Equipmentlist_v3-2-0_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-+-cs35/Каталог- HI-END тахеометры Leica MS60 - TS60 - TM60 Equipment List 2020.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Каталог- HI-END тахеометры Leica MS60 - TS60 - TM60 Equipment List 2020.pdf"
       },
       {
         "name": "Краткое руководство пользователя Leica TS60/MS60/TM60",
         "url": "https://www.geooptic.ru/static/files/819178_Leica_TS60_MS60_TM60_QG_v3-0-0_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-+-cs35/Краткое руководство пользователя Leica TS60-MS60-TM60.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Краткое руководство пользователя Leica TS60-MS60-TM60.pdf"
       },
       {
         "name": "Свидетельство об Утверждении Типа средств измерений на Leica TS16, Leica MS60 и Leica TS60 I",
         "url": "https://www.geooptic.ru/static/files/SUT_Leica_Viva_TS16,_Leica_Nova_MS6,_Leica_Nova_TS60_I_do_23.10.2025.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-+-cs35/Свидетельство об Утверждении Типа средств измерений на Leica TS16, Leica MS60 и Leica TS60 I.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Свидетельство об Утверждении Типа средств измерений на Leica TS16, Leica MS60 и Leica TS60 I.pdf"
       },
       {
         "name": "Методика поверки Leica TS16, MS60, TS60",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_TS16-MS60-TS60.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-+-cs35/Методика поверки Leica TS16, MS60, TS60.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Методика поверки Leica TS16, MS60, TS60.pdf"
       },
       {
         "name": "Каталог товаров Leica MS60, TS60 и TM60 (Equipment List 2021)",
         "url": "https://www.geooptic.ru/static/files/Leica-MS6-TS60-TM60-Equipmentlist-v3-4-0-en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-+-cs35/Каталог товаров Leica MS60, TS60 и TM60 (Equipment List 2021).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Каталог товаров Leica MS60, TS60 и TM60 (Equipment List 2021).pdf"
       },
       {
         "name": "Сравнительная таблица тахеометров Leica Geosystems",
         "url": "https://www.geooptic.ru/static/files/Leica-Geosystems-TPS-Comparison-Chart-0423-ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-+-cs35/Сравнительная таблица тахеометров Leica Geosystems.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сравнительная таблица тахеометров Leica Geosystems.pdf"
       },
       {
         "name": "Каталог роботизированных тахеометров Leica MS60, TS60, TM60 2024 год",
         "url": "https://www.geooptic.ru/static/files/837008_Leica_Nova_MS60_TS60_TM60_EQL_v3-9-0_en_watermark.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-+-cs35/Каталог роботизированных тахеометров Leica MS60, TS60, TM60 2024 год.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Каталог роботизированных тахеометров Leica MS60, TS60, TM60 2024 год.pdf"
       }
     ]
   },
@@ -1378,32 +1378,32 @@
       {
         "name": "896188_Leica_BLK2GO_UM_v1-0-2_ru",
         "url": "https://www.geooptic.ru/static/files/896188_Leica_BLK2GO_UM_v1-0-2_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk2go-starter-package/896188_Leica_BLK2GO_UM_v1-0-2_ru.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/896188_Leica_BLK2GO_UM_v1-0-2_ru.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk2go-starter-package/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Краткое руководство Leica BLK2GO",
         "url": "https://www.geooptic.ru/static/files/Leica_BLK2GO_QG_v1.1.1_web_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk2go-starter-package/Краткое руководство Leica BLK2GO.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Краткое руководство Leica BLK2GO.pdf"
       },
       {
         "name": "Применение сканера Leica BLK2GO",
         "url": "https://www.geooptic.ru/static/files/BLK2GO-Best_Practices_v1.1_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk2go-starter-package/Применение сканера Leica BLK2GO.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Применение сканера Leica BLK2GO.pdf"
       },
       {
         "name": "Описание типа СИ Leica BLK2GO",
         "url": "https://www.geooptic.ru/static/files/Opisanie_tipa_si_Leica_BLK2GO.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk2go-starter-package/Описание типа СИ Leica BLK2GO.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Описание типа СИ Leica BLK2GO.pdf"
       },
       {
         "name": "Методика поверки Leica BLK2GO",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_BLK2GO.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk2go-starter-package/Методика поверки Leica BLK2GO.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Методика поверки Leica BLK2GO.pdf"
       }
     ]
   },
@@ -1491,117 +1491,117 @@
       {
         "name": "instrukzia-leica-msS60-ts60-rus",
         "url": "https://www.geooptic.ru/static/files/instrukzia-leica-msS60-ts60-rus.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/instrukzia-leica-msS60-ts60-rus.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/instrukzia-leica-msS60-ts60-rus.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Leica CS20 Руководство пользователя",
         "url": "https://www.geooptic.ru/static/files/leica-cs20-rukovodstvo-polzovatelya.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Leica CS20 Руководство пользователя.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica CS20 Руководство пользователя.pdf"
       },
       {
         "name": "Leica Тахеометры Nova MS60 и TS60 Перечень оборудования",
         "url": "https://www.geooptic.ru/static/files/leica-taheometry-nova-ms60-i-ts60-perechen-oborudovaniya.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Leica Тахеометры Nova MS60 и TS60 Перечень оборудования.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica Тахеометры Nova MS60 и TS60 Перечень оборудования.pdf"
       },
       {
         "name": "Свидетельство об утверждении типа средств измерений Leica TS16 MS60 TS60i (Сертификат)",
         "url": "https://www.geooptic.ru/static/files/leica-ms60-ts60-i-sertifikat.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Свидетельство об утверждении типа средств измерений Leica TS16 MS60 TS60i (Сертификат).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Свидетельство об утверждении типа средств измерений Leica TS16 MS60 TS60i (Сертификат).pdf"
       },
       {
         "name": "Применение роботизированных тахеометров при проведении топографической съёмки.",
         "url": "https://www.geooptic.ru/static/files/primenenie-robotizirovannyh-taheometrov-leica-pri-provedenii-topograficheskoy-semki.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Применение роботизированных тахеометров при проведении топографической съёмки..pptx"
+        "path": "documents/catalog/Categories/3d-scanners/Применение роботизированных тахеометров при проведении топографической съёмки..pptx"
       },
       {
         "name": "Использование MS60 и 3Dreashaper для проверки туннеля",
         "url": "https://www.geooptic.ru/static/files/ispolzovanie-ms60-i-3dreashaper-dlya-proverki-tunnelya.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Использование MS60 и 3Dreashaper для проверки туннеля.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/Использование MS60 и 3Dreashaper для проверки туннеля.pptx"
       },
       {
         "name": "Решение производственных задач с помощью сканирующего тахеометра MS60 Leica Geosystems",
         "url": "https://www.geooptic.ru/static/files/reshenie-proizvodstvennyh-zadach-s-pomoschu-skaniruuschego-taheometra-ms60-leica-geosystems.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Решение производственных задач с помощью сканирующего тахеометра MS60 Leica Geosystems.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/Решение производственных задач с помощью сканирующего тахеометра MS60 Leica Geosystems.pptx"
       },
       {
         "name": "Leica Nova MS60 Технические характеристики",
         "url": "https://www.geooptic.ru/static/files/leica-nova-ms60-tehnicheskie-harakteristiki.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Leica Nova MS60 Технические характеристики.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica Nova MS60 Технические характеристики.pdf"
       },
       {
         "name": "Leica CS20 \u0026 GS Sensors Quick Guide Version",
         "url": "https://www.geooptic.ru/static/files/leica-cs20-\u0026-gs-sensors-quick-guide-version.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Leica CS20 \u0026 GS Sensors Quick Guide Version.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica CS20 \u0026 GS Sensors Quick Guide Version.pdf"
       },
       {
         "name": "Инструкция программное обеспечение Leica Captivate (англ.)",
         "url": "https://www.geooptic.ru/static/files/leica-captivate-instrukzia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Инструкция программное обеспечение Leica Captivate (англ.).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Инструкция программное обеспечение Leica Captivate (англ.).pdf"
       },
       {
         "name": "Каталог: HI-END тахеометры Leica MS60 / TS60 || Equipment List 2015",
         "url": "https://www.geooptic.ru/static/files/leica-ms60-ts60-katalog-en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Каталог- HI-END тахеометры Leica MS60 - TS60  Equipment List 2015.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Каталог- HI-END тахеометры Leica MS60 - TS60  Equipment List 2015.pdf"
       },
       {
         "name": "Каталог: HI-END тахеометры Leica MS60 / TS60 / TM60 || Equipment List 2017",
         "url": "https://www.geooptic.ru/static/files/837008-Leica-Nova-TPS-MS60-TS60-Equipmentlist-v1-5-0-en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Каталог- HI-END тахеометры Leica MS60 - TS60 - TM60  Equipment List 2017.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Каталог- HI-END тахеометры Leica MS60 - TS60 - TM60  Equipment List 2017.pdf"
       },
       {
         "name": "Технические характеристики Leica MS60",
         "url": "https://www.geooptic.ru/static/files/leica-ms60-ds.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Технические характеристики Leica MS60.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Технические характеристики Leica MS60.pdf"
       },
       {
         "name": "Leica TS16 - Leica MS60 - Leica TS60 | Описание типа средств измерений № 60167 (2015 год)",
         "url": "https://www.geooptic.ru/static/files/61950-15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Leica TS16 - Leica MS60 - Leica TS60  Описание типа средств измерений № 60167 (2015 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica TS16 - Leica MS60 - Leica TS60  Описание типа средств измерений № 60167 (2015 год).pdf"
       },
       {
         "name": "Каталог: HI-END тахеометры Leica MS60 / TS60 / TM60 Equipment List 2020",
         "url": "https://www.geooptic.ru/static/files/837008_Leica_Nova_TPS_MS60_TS60_TM60_Equipmentlist_v3-2-0_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Каталог- HI-END тахеометры Leica MS60 - TS60 - TM60 Equipment List 2020.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Каталог- HI-END тахеометры Leica MS60 - TS60 - TM60 Equipment List 2020.pdf"
       },
       {
         "name": "Краткое руководство пользователя Leica TS60/MS60/TM60",
         "url": "https://www.geooptic.ru/static/files/819178_Leica_TS60_MS60_TM60_QG_v3-0-0_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Краткое руководство пользователя Leica TS60-MS60-TM60.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Краткое руководство пользователя Leica TS60-MS60-TM60.pdf"
       },
       {
         "name": "Руководство пользователя для тахеометров Leica TS60/MS60/TM60.pdf",
         "url": "https://www.geooptic.ru/static/files/819203_Leica_TS60_MS60_TM60_UM_v4.0.0_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Руководство пользователя для тахеометров Leica TS60-MS60-TM60.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/819203_Leica_TS60_MS60_TM60_UM_v4.0.0_ru.pdf"
       },
       {
         "name": "Свидетельство об Утверждении Типа средств измерений на Leica TS16, Leica MS60 и Leica TS60 I",
         "url": "https://www.geooptic.ru/static/files/SUT_Leica_Viva_TS16,_Leica_Nova_MS6,_Leica_Nova_TS60_I_do_23.10.2025.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Свидетельство об Утверждении Типа средств измерений на Leica TS16, Leica MS60 и Leica TS60 I.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Свидетельство об Утверждении Типа средств измерений на Leica TS16, Leica MS60 и Leica TS60 I.pdf"
       },
       {
         "name": "Методика поверки Leica TS16, MS60, TS60",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_TS16-MS60-TS60.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Методика поверки Leica TS16, MS60, TS60.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Методика поверки Leica TS16, MS60, TS60.pdf"
       },
       {
         "name": "Каталог товаров Leica MS60, TS60 и TM60 (Equipment List 2021)",
         "url": "https://www.geooptic.ru/static/files/Leica-MS6-TS60-TM60-Equipmentlist-v3-4-0-en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Каталог товаров Leica MS60, TS60 и TM60 (Equipment List 2021).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Каталог товаров Leica MS60, TS60 и TM60 (Equipment List 2021).pdf"
       },
       {
         "name": "Сравнительная таблица тахеометров Leica Geosystems",
         "url": "https://www.geooptic.ru/static/files/Leica-Geosystems-TPS-Comparison-Chart-0423-ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Сравнительная таблица тахеометров Leica Geosystems.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сравнительная таблица тахеометров Leica Geosystems.pdf"
       },
       {
         "name": "Каталог роботизированных тахеометров Leica MS60, TS60, TM60 2024 год",
         "url": "https://www.geooptic.ru/static/files/837008_Leica_Nova_MS60_TS60_TM60_EQL_v3-9-0_en_watermark.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/сканирующий-тахеометр-leica-ms60-1--+-cs20-lte/Каталог роботизированных тахеометров Leica MS60, TS60, TM60 2024 год.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Каталог роботизированных тахеометров Leica MS60, TS60, TM60 2024 год.pdf"
       }
     ]
   },
@@ -1664,62 +1664,62 @@
       {
         "name": "Rukovodstvo_polzovatelya_Leica_P30_40_50",
         "url": "https://www.geooptic.ru/static/files/Rukovodstvo_polzovatelya_Leica_P30_40_50.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p30-+-register-+-3dr/Rukovodstvo_polzovatelya_Leica_P30_40_50.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Rukovodstvo_polzovatelya_Leica_P30_40_50.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p30-+-register-+-3dr/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "3D-сканирование. Применение в проектировании и строительстве",
         "url": "https://www.geooptic.ru/static/files/primenenie-v-proektirovanie-i-stroitelstve.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p30-+-register-+-3dr/3D-сканирование. Применение в проектировании и строительстве.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/3D-сканирование. Применение в проектировании и строительстве.pptx"
       },
       {
         "name": "Сканирование моста",
         "url": "https://www.geooptic.ru/static/files/skanirovanie-mosta.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p30-+-register-+-3dr/Сканирование моста.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/Сканирование моста.pptx"
       },
       {
         "name": "Сканирование резервуаров",
         "url": "https://www.geooptic.ru/static/files/skanirovanie-vertikalnykh-rezervuarov.pptx",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p30-+-register-+-3dr/Сканирование резервуаров.pptx"
+        "path": "documents/catalog/Categories/3d-scanners/Сканирование резервуаров.pptx"
       },
       {
         "name": "Какой 3D лазерный сканер мне подходит?",
         "url": "https://www.geooptic.ru/static/files/kakoy-3d-lazernyy-skaner-mne-podhodit.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p30-+-register-+-3dr/Какой 3D лазерный сканер мне подходит.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Какой 3D лазерный сканер мне подходит.pdf"
       },
       {
         "name": "Технические характеристики Leica ScanStation P30/P40",
         "url": "https://www.geooptic.ru/static/files/scanstation-p30-p40.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p30-+-register-+-3dr/Технические характеристики Leica ScanStation P30-P40.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Технические характеристики Leica ScanStation P30-P40.pdf"
       },
       {
         "name": "Leica Cyclone and Leica CloudWorx Technical Specifications",
         "url": "https://www.geooptic.ru/static/files/Leica_Cyclone_and_CloudWorx_DS_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p30-+-register-+-3dr/Leica Cyclone and Leica CloudWorx Technical Specifications.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica Cyclone and Leica CloudWorx Technical Specifications.pdf"
       },
       {
         "name": "Плагин для обработки облаков точек Leica CloudWorx для AutoCAD",
         "url": "https://www.geooptic.ru/static/files/Leica-CloudWorx-for-AutoCAD-DS-901374-1117_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p30-+-register-+-3dr/Плагин для обработки облаков точек Leica CloudWorx для AutoCAD.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Плагин для обработки облаков точек Leica CloudWorx для AutoCAD.pdf"
       },
       {
         "name": "829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf",
         "url": "https://www.geooptic.ru/static/files/829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p30-+-register-+-3dr/829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/829112_Leica_ScanStation_P50_P40_P30_Equipmentlist_v3-1-0_en.pdf"
       },
       {
         "name": "Описание типа СИ Leica ScanStation P30, Leica ScanStation P40",
         "url": "https://www.geooptic.ru/static/files/Opisanie_tipa_si_Leica_ScanStation_ P30_P40.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p30-+-register-+-3dr/Описание типа СИ Leica ScanStation P30, Leica ScanStation P40.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Описание типа СИ Leica ScanStation P30, Leica ScanStation P40.pdf"
       },
       {
         "name": "Методика поверки Leica ScanStation P30, Leica ScanStation P40",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_ScanStation_P30_P40.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p30-+-register-+-3dr/Методика поверки Leica ScanStation P30, Leica ScanStation P40.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Методика поверки Leica ScanStation P30, Leica ScanStation P40.pdf"
       }
     ]
   },
@@ -1778,7 +1778,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-3d-сканера-leica-scanstation-p50-+-register-+-3dr/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -1800,7 +1800,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/мобильный-3d-сканер-leica-sitrack/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -1819,7 +1819,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/мобильный-3d-сканер-leica-proscan/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -1842,12 +1842,12 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/мобильный-3d-сканер-leica-pegasus:-two/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Техническое описание Leica Pegasus Two",
         "url": "https://www.geooptic.ru/static/files/tehnicheskoe-opisanie-leica-pegasus-two.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/мобильный-3d-сканер-leica-pegasus:-two/Техническое описание Leica Pegasus Two.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Техническое описание Leica Pegasus Two.pdf"
       }
     ]
   },
@@ -1867,7 +1867,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/мобильный-3d-сканер-leica-pegasus:-two-ultimate/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -1889,12 +1889,12 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/мобильный-3d-сканер-leica-pegasus:-backpack/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Техническое описание Leica Pegasus: Backpack",
         "url": "https://www.geooptic.ru/static/files/tehnicheskoe-opisanie-leica-pegasus:-backpack.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/мобильный-3d-сканер-leica-pegasus:-backpack/Техническое описание Leica Pegasus- Backpack.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Техническое описание Leica Pegasus- Backpack.pdf"
       }
     ]
   },
@@ -1952,27 +1952,27 @@
       {
         "name": "866566_Leica_BLK360_UM_v2.0.0_ru",
         "url": "https://www.geooptic.ru/static/files/866566_Leica_BLK360_UM_v2.0.0_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk360/866566_Leica_BLK360_UM_v2.0.0_ru.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/866566_Leica_BLK360_UM_v2.0.0_ru.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk360/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Leica BLK360 || Описание типа средств измерений",
         "url": "https://www.geooptic.ru/static/files/leica-blk360-opisanie-tipa.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk360/Leica BLK360  Описание типа средств измерений.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica BLK360  Описание типа средств измерений.pdf"
       },
       {
         "name": "Leica BLK360 || Свидетельство об утверждении типа средств измерений",
         "url": "https://www.geooptic.ru/static/files/blk360-svidetelstvo-ob-utverzhdenii.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk360/Leica BLK360  Свидетельство об утверждении типа средств измерений.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Leica BLK360  Свидетельство об утверждении типа средств измерений.pdf"
       },
       {
         "name": "Технические характеристики Leica BLK360",
         "url": "https://www.geooptic.ru/static/files/Leica-BLK360.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/лазерный-сканер-leica-blk360/Технические характеристики Leica BLK360.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Технические характеристики Leica BLK360.pdf"
       }
     ]
   },
@@ -2029,17 +2029,17 @@
       {
         "name": "866566_Leica_BLK360_UM_v2.0.0_ru",
         "url": "https://www.geooptic.ru/static/files/866566_Leica_BLK360_UM_v2.0.0_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-лазерного-сканера-leica-blk360/866566_Leica_BLK360_UM_v2.0.0_ru.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/866566_Leica_BLK360_UM_v2.0.0_ru.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-лазерного-сканера-leica-blk360/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Технические характеристики Leica BLK360",
         "url": "https://www.geooptic.ru/static/files/Leica-BLK360.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/3D-scanners/комплект-лазерного-сканера-leica-blk360/Технические характеристики Leica BLK360.pdf"
+        "path": "documents/catalog/Categories/3d-scanners/Технические характеристики Leica BLK360.pdf"
       }
     ]
   }

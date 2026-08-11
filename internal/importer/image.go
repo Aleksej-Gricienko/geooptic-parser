@@ -57,6 +57,16 @@ func FindImages(categoryFolder, productName string) ([]string, error) {
 	for _, entry := range entries {
 		fmt.Println(entry.Name())
 	}
+
 	fmt.Printf("Found images: %d\n", len(images))
 	return images, nil
+}
+func ProductImageFolder(name string) string {
+	name = strings.ToLower(name)
+	name = strings.ReplaceAll(name, " ", "-")
+	name = strings.ReplaceAll(name, "/", "-")
+	name = strings.ReplaceAll(name, "\\", "-")
+	name = strings.ReplaceAll(name, "\"", "-")
+
+	return name
 }

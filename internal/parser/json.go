@@ -7,12 +7,12 @@ import (
 	"geooptic-parser-chromedp/models"
 )
 
-func SaveProducts(products []models.Product) error {
+func SaveProducts(products []models.Product, categorySlug string) error {
 	if err := os.MkdirAll("data", 0755); err != nil {
 		return err
 	}
 
-	file, err := os.Create("data/products.json")
+	file, err := os.Create("data/" + categorySlug + ".json")
 	if err != nil {
 		return err
 	}

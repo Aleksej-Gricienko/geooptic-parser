@@ -41,7 +41,8 @@ func (p *Parser) ParseProduct(url string) (models.Product, error) {
 	// Вторая загрузка страницы
 	// Только для PDF
 	// -----------------------
-
+	fmt.Println("=== ПЕРЕХОД К ФАЙЛАМ ===")
+	fmt.Println("Товар:", product.Name)
 	filesHTML, err := p.getHTMLWithFiles(url)
 	if err != nil {
 		return models.Product{}, err
@@ -110,20 +111,34 @@ func (p *Parser) getHTMLWithFiles(url string) (string, error) {
 
 	var html string
 
+	fmt.Println("Открываю страницу файлов:", url)
+
 	err := chromedp.Run(
 		p.ctx,
+
 		chromedp.Navigate(url),
 		chromedp.WaitVisible("body", chromedp.ByQuery),
 
 		chromedp.Click(`//span[text()="Файлы"]`, chromedp.BySearch),
-		chromedp.Sleep(2*time.Second),
+
+		// Ждём появления хотя бы одной ссылки на документ.
+		chromedp.WaitVisible(
+			`a[href*=".pdf"], a[href*=".ppt"], a[href*=".pptx"]`,
+			chromedp.ByQuery,
+		),
 
 		chromedp.OuterHTML("html", &html, chromedp.ByQuery),
 	)
 
 	if err != nil {
-		return "", fmt.Errorf("ошибка загрузки страницы %s: %w", url, err)
+		return "", fmt.Errorf(
+			"ошибка загрузки страницы %s: %w",
+			url,
+			err,
+		)
 	}
+
+	fmt.Println("HTML файлов получен, размер:", len(html))
 
 	return html, nil
 }

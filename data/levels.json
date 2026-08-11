@@ -42,27 +42,27 @@
       {
         "name": "leica_na300",
         "url": "https://www.geooptic.ru/static/files/leica_na300.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na324-с-поверкой/leica_na300.pdf"
+        "path": "documents/catalog/Categories/levels/leica_na300.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na324-с-поверкой/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na324-с-поверкой/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na324-с-поверкой/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na324-с-поверкой/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -107,32 +107,32 @@
       {
         "name": "NA7_ru",
         "url": "https://www.geooptic.ru/static/files/NA7_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na730plus-с-поверкой/NA7_ru.pdf"
+        "path": "documents/catalog/Categories/levels/NA7_ru.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na730plus-с-поверкой/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "описание типа средства измерений нивелиров с компенсатором Leica NA730 plus",
         "url": "https://www.geooptic.ru/static/files/opisanie-tipa-sredstva-izmerenij-nivelirov-s-kompensatorom-leica-na730-plus.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na730plus-с-поверкой/описание типа средства измерений нивелиров с компенсатором Leica NA730 plus.pdf"
+        "path": "documents/catalog/Categories/levels/описание типа средства измерений нивелиров с компенсатором Leica NA730 plus.pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA730 Plus",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA730_plus.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na730plus-с-поверкой/Свидетельство об утверждении СИ Leica NA730 Plus.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA730 Plus.pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA720, NA724, NA728, NA730",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo-NA720-NA724-NA728-NA730_2014.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na730plus-с-поверкой/Свидетельство об утверждении СИ Leica NA720, NA724, NA728, NA730.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA720, NA724, NA728, NA730.pdf"
       },
       {
         "name": "Методика поверки Leica NA730plus",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA730plus.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na730plus-с-поверкой/Методика поверки Leica NA730plus.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA730plus.pdf"
       }
     ]
   },
@@ -191,22 +191,22 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-640-re160/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Leica RUGBY 600 || Описание типа средства измерений",
         "url": "https://www.geooptic.ru/static/files/opisanie-tipa-sredstv-izmerenii-Rugby_600-800.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-640-re160/Leica RUGBY 600  Описание типа средства измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 600  Описание типа средства измерений.pdf"
       },
       {
         "name": "Leica RUGBY 610, 620, 640, 680 || Свидетельство об утверждении типа средств измерений",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600-svidetelstvo-ob-utverzhdenii-58419-14.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-640-re160/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
       },
       {
         "name": "Каталог Leica Rugby 600",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-640-re160/Каталог Leica Rugby 600.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог Leica Rugby 600.pdf"
       }
     ]
   },
@@ -252,12 +252,12 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na532-+-штатив-+-рейка-3м/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na532-+-штатив-+-рейка-3м/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -314,22 +314,22 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-680-re160/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Leica RUGBY 600 || Описание типа средства измерений",
         "url": "https://www.geooptic.ru/static/files/opisanie-tipa-sredstv-izmerenii-Rugby_600-800.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-680-re160/Leica RUGBY 600  Описание типа средства измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 600  Описание типа средства измерений.pdf"
       },
       {
         "name": "Leica RUGBY 610, 620, 640, 680 || Свидетельство об утверждении типа средств измерений",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600-svidetelstvo-ob-utverzhdenii-58419-14.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-680-re160/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
       },
       {
         "name": "Каталог Leica Rugby 600",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-680-re160/Каталог Leica Rugby 600.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог Leica Rugby 600.pdf"
       }
     ]
   },
@@ -376,27 +376,27 @@
       {
         "name": "leica_na500",
         "url": "https://www.geooptic.ru/static/files/leica_na500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na520-с-поверкой/leica_na500.pdf"
+        "path": "documents/catalog/Categories/levels/leica_na500.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na520-с-поверкой/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na520-с-поверкой/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na520-с-поверкой/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na520-с-поверкой/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -446,47 +446,47 @@
       {
         "name": "rukovodstvo-polzovatelya-leica-ls10-ls15",
         "url": "https://www.geooptic.ru/static/files/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf"
+        "path": "documents/catalog/Categories/levels/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Технические характеристики",
         "url": "https://www.geooptic.ru/static/files/cifrovye-niveliry-leica-ls-tehnicheskie-harakteristiki.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)/Цифровые нивелиры Leica LS Технические характеристики.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Технические характеристики.pdf"
       },
       {
         "name": "Быстрое руководство пользователя Leica LS",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15-instrikcia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)/Быстрое руководство пользователя Leica LS.pdf"
+        "path": "documents/catalog/Categories/levels/Быстрое руководство пользователя Leica LS.pdf"
       },
       {
         "name": "Каталог: Цифровые нивелиры Leica LS10 / LS15  || Equipment List 2015",
         "url": "https://www.geooptic.ru/static/files/Leica Digital Levels.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса",
         "url": "https://www.geooptic.ru/static/files/cifrovye-niveliry-leica-ls-vysokotochnoe-nivelirovanie-novogo-klassa.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)/Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса.pdf"
       },
       {
         "name": "Руководство пользователя Leica LS15 / LS10",
         "url": "https://www.geooptic.ru/static/files/leica-ls15-instruczia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)/Руководство пользователя Leica LS15 - LS10.pdf"
+        "path": "documents/catalog/Categories/levels/Руководство пользователя Leica LS15 - LS10.pdf"
       },
       {
         "name": "Сертификат Leica LS10/LS15",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)/Сертификат Leica LS10-LS15.pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica LS10-LS15.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Технические характерситики",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15-ds.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)/Цифровые нивелиры Leica LS Технические характерситики.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Технические характеристики.pdf"
       }
     ]
   },
@@ -533,27 +533,27 @@
       {
         "name": "leica_na500",
         "url": "https://www.geooptic.ru/static/files/leica_na500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na524-с-поверкой/leica_na500.pdf"
+        "path": "documents/catalog/Categories/levels/leica_na500.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na524-с-поверкой/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na524-с-поверкой/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na524-с-поверкой/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na524-с-поверкой/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -612,22 +612,22 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-620-re120/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Leica RUGBY 600 || Описание типа средства измерений",
         "url": "https://www.geooptic.ru/static/files/opisanie-tipa-sredstv-izmerenii-Rugby_600-800.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-620-re120/Leica RUGBY 600  Описание типа средства измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 600  Описание типа средства измерений.pdf"
       },
       {
         "name": "Leica RUGBY 610, 620, 640, 680 || Свидетельство об утверждении типа средств измерений",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600-svidetelstvo-ob-utverzhdenii-58419-14.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-620-re120/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
       },
       {
         "name": "Каталог Leica Rugby 600",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-620-re120/Каталог Leica Rugby 600.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог Leica Rugby 600.pdf"
       }
     ]
   },
@@ -673,27 +673,27 @@
       {
         "name": "leica_na300",
         "url": "https://www.geooptic.ru/static/files/leica_na300.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na324-+-штатив-+-рейка-3м/leica_na300.pdf"
+        "path": "documents/catalog/Categories/levels/leica_na300.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na324-+-штатив-+-рейка-3м/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na324-+-штатив-+-рейка-3м/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na324-+-штатив-+-рейка-3м/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na324-+-штатив-+-рейка-3м/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -738,42 +738,42 @@
       {
         "name": "leica-na700-instrukcia",
         "url": "https://www.geooptic.ru/static/files/leica-na700-instrukcia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na720-с-поверкой/leica-na700-instrukcia.pdf"
+        "path": "documents/catalog/Categories/levels/leica-na700-instrukcia.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na720-с-поверкой/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Брошюра оптические нивелиры Leica",
         "url": "https://www.geooptic.ru/static/files/leica-opticheskie-niveliry-buklet.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na720-с-поверкой/Брошюра оптические нивелиры Leica.pdf"
+        "path": "documents/catalog/Categories/levels/Брошюра оптические нивелиры Leica.pdf"
       },
       {
         "name": "Оптические и цифровые нивелиры Leica",
         "url": "https://www.geooptic.ru/static/files/opticheskie-i-tzifrovie-niveliry-leica.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na720-с-поверкой/Оптические и цифровые нивелиры Leica.pdf"
+        "path": "documents/catalog/Categories/levels/Оптические и цифровые нивелиры Leica.pdf"
       },
       {
         "name": "Сертификат Leica NA700 (2019 г.)",
         "url": "https://www.geooptic.ru/static/files/leica-na700-sertifikat-2019.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na720-с-поверкой/Сертификат Leica NA700 (2019 г.).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica NA700 (2019 г.).pdf"
       },
       {
         "name": "Инструкция для оптических нивелиров серии Leica NA720/NA724/NA728/NA730",
         "url": "https://www.geooptic.ru/static/files/NA7_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na720-с-поверкой/Инструкция для оптических нивелиров серии Leica NA720-NA724-NA728-NA730.pdf"
+        "path": "documents/catalog/Categories/levels/NA7_ru.pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA720, NA724, NA728, NA730",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo-NA720-NA724-NA728-NA730_2014.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na720-с-поверкой/Свидетельство об утверждении СИ Leica NA720, NA724, NA728, NA730.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA720, NA724, NA728, NA730.pdf"
       },
       {
         "name": "Описание типа СИ Leica NA720, NA724, NA728, NA730, NA730",
         "url": "https://www.geooptic.ru/static/files/OTSI-NA720-NA724-NA728-NA730_2014.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na720-с-поверкой/Описание типа СИ Leica NA720, NA724, NA728, NA730, NA730.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ Leica NA720, NA724, NA728, NA730, NA730.pdf"
       }
     ]
   },
@@ -818,42 +818,42 @@
       {
         "name": "leica-na700-instrukcia",
         "url": "https://www.geooptic.ru/static/files/leica-na700-instrukcia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na724-с-поверкой/leica-na700-instrukcia.pdf"
+        "path": "documents/catalog/Categories/levels/leica-na700-instrukcia.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na724-с-поверкой/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Оптические и цифровые нивелиры Leica",
         "url": "https://www.geooptic.ru/static/files/opticheskie-i-tzifrovie-niveliry-leica.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na724-с-поверкой/Оптические и цифровые нивелиры Leica.pdf"
+        "path": "documents/catalog/Categories/levels/Оптические и цифровые нивелиры Leica.pdf"
       },
       {
         "name": "Брошюра оптические нивелиры Leica",
         "url": "https://www.geooptic.ru/static/files/leica-opticheskie-niveliry-buklet.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na724-с-поверкой/Брошюра оптические нивелиры Leica.pdf"
+        "path": "documents/catalog/Categories/levels/Брошюра оптические нивелиры Leica.pdf"
       },
       {
         "name": "Сертификат Leica NA700 (2019 г.)",
         "url": "https://www.geooptic.ru/static/files/leica-na700-sertifikat-2019.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na724-с-поверкой/Сертификат Leica NA700 (2019 г.).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica NA700 (2019 г.).pdf"
       },
       {
         "name": "Инструкция для оптических нивелиров серии Leica NA720/NA724/NA728/NA730",
         "url": "https://www.geooptic.ru/static/files/NA7_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na724-с-поверкой/Инструкция для оптических нивелиров серии Leica NA720-NA724-NA728-NA730.pdf"
+        "path": "documents/catalog/Categories/levels/NA7_ru.pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA720, NA724, NA728, NA730",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo-NA720-NA724-NA728-NA730_2014.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na724-с-поверкой/Свидетельство об утверждении СИ Leica NA720, NA724, NA728, NA730.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA720, NA724, NA728, NA730.pdf"
       },
       {
         "name": "Описание типа СИ Leica NA720, NA724, NA728, NA730, NA730",
         "url": "https://www.geooptic.ru/static/files/OTSI-NA720-NA724-NA728-NA730_2014.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na724-с-поверкой/Описание типа СИ Leica NA720, NA724, NA728, NA730, NA730.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ Leica NA720, NA724, NA728, NA730, NA730.pdf"
       }
     ]
   },
@@ -899,27 +899,27 @@
       {
         "name": "leica_na500",
         "url": "https://www.geooptic.ru/static/files/leica_na500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na532-+-штатив-+-рейка-5м/leica_na500.pdf"
+        "path": "documents/catalog/Categories/levels/leica_na500.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na532-+-штатив-+-рейка-5м/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na532-+-штатив-+-рейка-5м/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na532-+-штатив-+-рейка-5м/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na532-+-штатив-+-рейка-5м/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -964,27 +964,27 @@
       {
         "name": "leica-na2-nak2-instrukcia-1",
         "url": "https://www.geooptic.ru/static/files/leica-na2-nak2-instrukcia-1.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-nak2/leica-na2-nak2-instrukcia-1.pdf"
+        "path": "documents/catalog/Categories/levels/leica-na2-nak2-instrukcia-1.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-nak2/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Брошюра оптические нивелиры Leica",
         "url": "https://www.geooptic.ru/static/files/leica-opticheskie-niveliry-buklet.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-nak2/Брошюра оптические нивелиры Leica.pdf"
+        "path": "documents/catalog/Categories/levels/Брошюра оптические нивелиры Leica.pdf"
       },
       {
         "name": "Оптические и цифровые нивелиры Leica",
         "url": "https://www.geooptic.ru/static/files/opticheskie-i-tzifrovie-niveliry-leica.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-nak2/Оптические и цифровые нивелиры Leica.pdf"
+        "path": "documents/catalog/Categories/levels/Оптические и цифровые нивелиры Leica.pdf"
       },
       {
         "name": "Сертификат Leica NA2/NAK2 (2019 г.)",
         "url": "https://www.geooptic.ru/static/files/leica-na2-nak2-sertifikat-2019.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-nak2/Сертификат Leica NA2-NAK2 (2019 г.).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica NA2-NAK2 (2019 г.).pdf"
       }
     ]
   },
@@ -1043,22 +1043,22 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-610-re120/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Leica RUGBY 600 || Описание типа средства измерений",
         "url": "https://www.geooptic.ru/static/files/opisanie-tipa-sredstv-izmerenii-Rugby_600-800.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-610-re120/Leica RUGBY 600  Описание типа средства измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 600  Описание типа средства измерений.pdf"
       },
       {
         "name": "Leica RUGBY 610, 620, 640, 680 || Свидетельство об утверждении типа средств измерений",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600-svidetelstvo-ob-utverzhdenii-58419-14.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-610-re120/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
       },
       {
         "name": "Каталог Leica Rugby 600",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-610-re120/Каталог Leica Rugby 600.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог Leica Rugby 600.pdf"
       }
     ]
   },
@@ -1106,47 +1106,47 @@
       {
         "name": "rukovodstvo-polzovatelya-leica-ls10-ls15",
         "url": "https://www.geooptic.ru/static/files/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf"
+        "path": "documents/catalog/Categories/levels/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Сертификат Leica LS10/LS15",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)/Сертификат Leica LS10-LS15.pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica LS10-LS15.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Технические характеристики",
         "url": "https://www.geooptic.ru/static/files/cifrovye-niveliry-leica-ls-tehnicheskie-harakteristiki.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)/Цифровые нивелиры Leica LS Технические характеристики.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Технические характеристики.pdf"
       },
       {
         "name": "Каталог: Цифровые нивелиры Leica LS10 / LS15  || Equipment List 2015",
         "url": "https://www.geooptic.ru/static/files/Leica Digital Levels.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
       },
       {
         "name": "Руководство пользователя Leica LS15 / LS10",
         "url": "https://www.geooptic.ru/static/files/leica-ls15-instruczia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)/Руководство пользователя Leica LS15 - LS10.pdf"
+        "path": "documents/catalog/Categories/levels/Руководство пользователя Leica LS15 - LS10.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Технические характерситики",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15-ds.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)/Цифровые нивелиры Leica LS Технические характерситики.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Технические характеристики.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса",
         "url": "https://www.geooptic.ru/static/files/cifrovye-niveliry-leica-ls-vysokotochnoe-nivelirovanie-novogo-klassa.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)/Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса.pdf"
       },
       {
         "name": "Быстрое руководство пользователя Leica LS",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15-instrikcia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)/Быстрое руководство пользователя Leica LS.pdf"
+        "path": "documents/catalog/Categories/levels/Быстрое руководство пользователя Leica LS.pdf"
       }
     ]
   },
@@ -1196,42 +1196,42 @@
       {
         "name": "rukovodstvo-polzovatelya-leica-ls10-ls15",
         "url": "https://www.geooptic.ru/static/files/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf"
+        "path": "documents/catalog/Categories/levels/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Технические характеристики",
         "url": "https://www.geooptic.ru/static/files/cifrovye-niveliry-leica-ls-tehnicheskie-harakteristiki.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)/Цифровые нивелиры Leica LS Технические характеристики.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Технические характеристики.pdf"
       },
       {
         "name": "Сертификат Leica LS10/LS15",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)/Сертификат Leica LS10-LS15.pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica LS10-LS15.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Технические характерситики",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15-ds.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)/Цифровые нивелиры Leica LS Технические характерситики.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Технические характеристики.pdf"
       },
       {
         "name": "Каталог: Цифровые нивелиры Leica LS10 / LS15  || Equipment List 2015",
         "url": "https://www.geooptic.ru/static/files/Leica Digital Levels.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса",
         "url": "https://www.geooptic.ru/static/files/cifrovye-niveliry-leica-ls-vysokotochnoe-nivelirovanie-novogo-klassa.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)/Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса.pdf"
       },
       {
         "name": "Быстрое руководство пользователя Leica LS",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15-instrikcia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)/Быстрое руководство пользователя Leica LS.pdf"
+        "path": "documents/catalog/Categories/levels/Быстрое руководство пользователя Leica LS.pdf"
       }
     ]
   },
@@ -1292,7 +1292,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/лазерный-уровень--leica-lino-l2-1-в-кейсе/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -1352,7 +1352,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/лазерный-уровень--leica-lino-l2s-1/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -1395,27 +1395,27 @@
       {
         "name": "leica-na2-nak2-instrukcia-1",
         "url": "https://www.geooptic.ru/static/files/leica-na2-nak2-instrukcia-1.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na2/leica-na2-nak2-instrukcia-1.pdf"
+        "path": "documents/catalog/Categories/levels/leica-na2-nak2-instrukcia-1.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na2/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Брошюра оптические нивелиры Leica",
         "url": "https://www.geooptic.ru/static/files/leica-opticheskie-niveliry-buklet.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na2/Брошюра оптические нивелиры Leica.pdf"
+        "path": "documents/catalog/Categories/levels/Брошюра оптические нивелиры Leica.pdf"
       },
       {
         "name": "Сертификат Leica NA2/NAK2 (2019 г.)",
         "url": "https://www.geooptic.ru/static/files/leica-na2-nak2-sertifikat-2019.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na2/Сертификат Leica NA2-NAK2 (2019 г.).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica NA2-NAK2 (2019 г.).pdf"
       },
       {
         "name": "Оптические и цифровые нивелиры Leica",
         "url": "https://www.geooptic.ru/static/files/opticheskie-i-tzifrovie-niveliry-leica.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na2/Оптические и цифровые нивелиры Leica.pdf"
+        "path": "documents/catalog/Categories/levels/Оптические и цифровые нивелиры Leica.pdf"
       }
     ]
   },
@@ -1463,42 +1463,42 @@
       {
         "name": "rukovodstvo-polzovatelya-leica-ls10-ls15",
         "url": "https://www.geooptic.ru/static/files/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)+-2-инварные-рейки-в-кейсе/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf"
+        "path": "documents/catalog/Categories/levels/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)+-2-инварные-рейки-в-кейсе/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Сертификат Leica LS10/LS15",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)+-2-инварные-рейки-в-кейсе/Сертификат Leica LS10-LS15.pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica LS10-LS15.pdf"
       },
       {
         "name": "Быстрое руководство пользователя Leica LS",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15-instrikcia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)+-2-инварные-рейки-в-кейсе/Быстрое руководство пользователя Leica LS.pdf"
+        "path": "documents/catalog/Categories/levels/Быстрое руководство пользователя Leica LS.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Технические характеристики",
         "url": "https://www.geooptic.ru/static/files/cifrovye-niveliry-leica-ls-tehnicheskie-harakteristiki.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)+-2-инварные-рейки-в-кейсе/Цифровые нивелиры Leica LS Технические характеристики.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Технические характеристики.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса",
         "url": "https://www.geooptic.ru/static/files/cifrovye-niveliry-leica-ls-vysokotochnoe-nivelirovanie-novogo-klassa.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)+-2-инварные-рейки-в-кейсе/Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса.pdf"
       },
       {
         "name": "Каталог: Цифровые нивелиры Leica LS10 / LS15  || Equipment List 2015",
         "url": "https://www.geooptic.ru/static/files/Leica Digital Levels.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)+-2-инварные-рейки-в-кейсе/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Технические характерситики",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15-ds.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.3)+-2-инварные-рейки-в-кейсе/Цифровые нивелиры Leica LS Технические характерситики.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Технические характеристики.pdf"
       }
     ]
   },
@@ -1544,27 +1544,27 @@
       {
         "name": "leica_na300",
         "url": "https://www.geooptic.ru/static/files/leica_na300.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-+-штатив-+-рейка-3м/leica_na300.pdf"
+        "path": "documents/catalog/Categories/levels/leica_na300.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-+-штатив-+-рейка-3м/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-+-штатив-+-рейка-3м/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-+-штатив-+-рейка-3м/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-+-штатив-+-рейка-3м/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -1608,32 +1608,32 @@
       {
         "name": "NA7_ru",
         "url": "https://www.geooptic.ru/static/files/NA7_ru.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na730plus-+-штатив-+-рейка/NA7_ru.pdf"
+        "path": "documents/catalog/Categories/levels/NA7_ru.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na730plus-+-штатив-+-рейка/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA730 Plus",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA730_plus.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na730plus-+-штатив-+-рейка/Свидетельство об утверждении СИ Leica NA730 Plus.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA730 Plus.pdf"
       },
       {
         "name": "описание типа средства измерений нивелиров с компенсатором Leica NA730 plus",
         "url": "https://www.geooptic.ru/static/files/opisanie-tipa-sredstva-izmerenij-nivelirov-s-kompensatorom-leica-na730-plus.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na730plus-+-штатив-+-рейка/описание типа средства измерений нивелиров с компенсатором Leica NA730 plus.pdf"
+        "path": "documents/catalog/Categories/levels/описание типа средства измерений нивелиров с компенсатором Leica NA730 plus.pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA720, NA724, NA728, NA730",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo-NA720-NA724-NA728-NA730_2014.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na730plus-+-штатив-+-рейка/Свидетельство об утверждении СИ Leica NA720, NA724, NA728, NA730.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA720, NA724, NA728, NA730.pdf"
       },
       {
         "name": "Методика поверки Leica NA730plus",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA730plus.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na730plus-+-штатив-+-рейка/Методика поверки Leica NA730plus.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA730plus.pdf"
       }
     ]
   },
@@ -1679,22 +1679,22 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-+-штатив-+-рейка-7м/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-+-штатив-+-рейка-7м/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-+-штатив-+-рейка-7м/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-+-штатив-+-рейка-7м/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -1754,7 +1754,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/лазерный-уровень--leica-lino-l2p5g/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -1813,7 +1813,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-640-re120/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -1870,7 +1870,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-640g-re120g/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -1916,27 +1916,27 @@
       {
         "name": "leica_na500",
         "url": "https://www.geooptic.ru/static/files/leica_na500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na520-+-штатив-+-рейка-5м/leica_na500.pdf"
+        "path": "documents/catalog/Categories/levels/leica_na500.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na520-+-штатив-+-рейка-5м/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na520-+-штатив-+-рейка-5м/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na520-+-штатив-+-рейка-5м/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na520-+-штатив-+-рейка-5м/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -1985,42 +1985,42 @@
       {
         "name": "rukovodstvo-polzovatelya-leica-ls10-ls15",
         "url": "https://www.geooptic.ru/static/files/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)-+-gpcl2-(2-шт.)-+-gst05/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf"
+        "path": "documents/catalog/Categories/levels/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)-+-gpcl2-(2-шт.)-+-gst05/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Быстрое руководство пользователя Leica LS",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15-instrikcia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)-+-gpcl2-(2-шт.)-+-gst05/Быстрое руководство пользователя Leica LS.pdf"
+        "path": "documents/catalog/Categories/levels/Быстрое руководство пользователя Leica LS.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Технические характеристики",
         "url": "https://www.geooptic.ru/static/files/cifrovye-niveliry-leica-ls-tehnicheskie-harakteristiki.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)-+-gpcl2-(2-шт.)-+-gst05/Цифровые нивелиры Leica LS Технические характеристики.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Технические характеристики.pdf"
       },
       {
         "name": "Сертификат Leica LS10/LS15",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)-+-gpcl2-(2-шт.)-+-gst05/Сертификат Leica LS10-LS15.pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica LS10-LS15.pdf"
       },
       {
         "name": "Каталог: Цифровые нивелиры Leica LS10 / LS15  || Equipment List 2015",
         "url": "https://www.geooptic.ru/static/files/Leica Digital Levels.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)-+-gpcl2-(2-шт.)-+-gst05/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Технические характерситики",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15-ds.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)-+-gpcl2-(2-шт.)-+-gst05/Цифровые нивелиры Leica LS Технические характерситики.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Технические характеристики.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса",
         "url": "https://www.geooptic.ru/static/files/cifrovye-niveliry-leica-ls-vysokotochnoe-nivelirovanie-novogo-klassa.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)-+-gpcl2-(2-шт.)-+-gst05/Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса.pdf"
       }
     ]
   },
@@ -2066,27 +2066,27 @@
       {
         "name": "leica_na500",
         "url": "https://www.geooptic.ru/static/files/leica_na500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na524-+-штатив-+-рейка-5м/leica_na500.pdf"
+        "path": "documents/catalog/Categories/levels/leica_na500.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na524-+-штатив-+-рейка-5м/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na524-+-штатив-+-рейка-5м/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na524-+-штатив-+-рейка-5м/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na524-+-штатив-+-рейка-5м/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -2134,42 +2134,42 @@
       {
         "name": "rukovodstvo-polzovatelya-leica-ls10-ls15",
         "url": "https://www.geooptic.ru/static/files/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)+-2-рейки-в-кейсе/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf"
+        "path": "documents/catalog/Categories/levels/rukovodstvo-polzovatelya-leica-ls10-ls15.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)+-2-рейки-в-кейсе/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Сертификат Leica LS10/LS15",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)+-2-рейки-в-кейсе/Сертификат Leica LS10-LS15.pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica LS10-LS15.pdf"
       },
       {
         "name": "Каталог: Цифровые нивелиры Leica LS10 / LS15  || Equipment List 2015",
         "url": "https://www.geooptic.ru/static/files/Leica Digital Levels.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)+-2-рейки-в-кейсе/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
       },
       {
         "name": "Быстрое руководство пользователя Leica LS",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15-instrikcia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)+-2-рейки-в-кейсе/Быстрое руководство пользователя Leica LS.pdf"
+        "path": "documents/catalog/Categories/levels/Быстрое руководство пользователя Leica LS.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Технические характеристики",
         "url": "https://www.geooptic.ru/static/files/cifrovye-niveliry-leica-ls-tehnicheskie-harakteristiki.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)+-2-рейки-в-кейсе/Цифровые нивелиры Leica LS Технические характеристики.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Технические характеристики.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Технические характерситики",
         "url": "https://www.geooptic.ru/static/files/leica-ls10-ls15-ds.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)+-2-рейки-в-кейсе/Цифровые нивелиры Leica LS Технические характерситики.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Технические характеристики.pdf"
       },
       {
         "name": "Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса",
         "url": "https://www.geooptic.ru/static/files/cifrovye-niveliry-leica-ls-vysokotochnoe-nivelirovanie-novogo-klassa.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-(0.2)+-2-рейки-в-кейсе/Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса.pdf"
+        "path": "documents/catalog/Categories/levels/Цифровые нивелиры Leica LS Высокоточное нивелирование нового класса.pdf"
       }
     ]
   },
@@ -2216,12 +2216,12 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)-+-gst20-+-gpcl2-+-gknl4m/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Каталог: Цифровые нивелиры Leica LS10 / LS15  || Equipment List 2015",
         "url": "https://www.geooptic.ru/static/files/Leica Digital Levels.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls10-(0.3)-+-gst20-+-gpcl2-+-gknl4m/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
       }
     ]
   },
@@ -2264,12 +2264,12 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-0.3-мм/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Каталог: Цифровые нивелиры Leica LS10 / LS15  || Equipment List 2015",
         "url": "https://www.geooptic.ru/static/files/Leica Digital Levels.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-ls15-0.3-мм/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог- Цифровые нивелиры Leica LS10 - LS15   Equipment List 2015.pdf"
       }
     ]
   },
@@ -2316,27 +2316,27 @@
       {
         "name": "leica_na500",
         "url": "https://www.geooptic.ru/static/files/leica_na500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na532-с-поверкой/leica_na500.pdf"
+        "path": "documents/catalog/Categories/levels/leica_na500.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na532-с-поверкой/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na532-с-поверкой/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na532-с-поверкой/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na532-с-поверкой/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -2383,27 +2383,27 @@
       {
         "name": "leica_na300",
         "url": "https://www.geooptic.ru/static/files/leica_na300.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-с-поверкой/leica_na300.pdf"
+        "path": "documents/catalog/Categories/levels/leica_na300.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-с-поверкой/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-с-поверкой/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-с-поверкой/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na332-с-поверкой/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -2450,27 +2450,27 @@
       {
         "name": "leica_na300",
         "url": "https://www.geooptic.ru/static/files/leica_na300.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na320-с-поверкой/leica_na300.pdf"
+        "path": "documents/catalog/Categories/levels/leica_na300.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na320-с-поверкой/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na320-с-поверкой/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na320-с-поверкой/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na320-с-поверкой/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -2530,7 +2530,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/лазерный-уровень--leica-lino-l2p5/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -2591,7 +2591,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/лазерный-уровень--leica-lino-l2g-1/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -2649,32 +2649,32 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-640-and-carrying-case/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Каталог Leica Rugby 600",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-640-and-carrying-case/Каталог Leica Rugby 600.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог Leica Rugby 600.pdf"
       },
       {
         "name": "Сертификат Leica Rugby 600/800",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600-800-sertifikat.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-640-and-carrying-case/Сертификат Leica Rugby 600-800.pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica Rugby 600-800.pdf"
       },
       {
         "name": "Презентация: Лазерный нивелиры Leica Rugby 600 / 800",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-prezentazia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-640-and-carrying-case/Презентация- Лазерный нивелиры Leica Rugby 600 - 800.pdf"
+        "path": "documents/catalog/Categories/levels/Презентация- Лазерный нивелиры Leica Rugby 600 - 800.pdf"
       },
       {
         "name": "Leica RUGBY 600 || Описание типа средства измерений",
         "url": "https://www.geooptic.ru/static/files/opisanie-tipa-sredstv-izmerenii-Rugby_600-800.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-640-and-carrying-case/Leica RUGBY 600  Описание типа средства измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 600  Описание типа средства измерений.pdf"
       },
       {
         "name": "Leica RUGBY 610, 620, 640, 680 || Свидетельство об утверждении типа средств измерений",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600-svidetelstvo-ob-utverzhdenii-58419-14.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-640-and-carrying-case/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
       }
     ]
   },
@@ -2731,7 +2731,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/построитель-точек-leica-lino-p5-new/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -2777,27 +2777,27 @@
       {
         "name": "leica_na300",
         "url": "https://www.geooptic.ru/static/files/leica_na300.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na320-+-штатив-+-рейка-3м/leica_na300.pdf"
+        "path": "documents/catalog/Categories/levels/leica_na300.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na320-+-штатив-+-рейка-3м/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532/",
         "url": "https://www.geooptic.ru/static/files/Svidetelstvo_NA300_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na320-+-штатив-+-рейка-3м/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
+        "path": "documents/catalog/Categories/levels/Свидетельство об утверждении СИ Leica NA320, NA324, NA332, NA520, NA524, NA532-.pdf"
       },
       {
         "name": "Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532",
         "url": "https://www.geooptic.ru/static/files/OTSI_NA300_500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na320-+-штатив-+-рейка-3м/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
+        "path": "documents/catalog/Categories/levels/Описание типа СИ оптические нивелиры Leica NA320, NA324, NA332, NA520, NA524, NA532.pdf"
       },
       {
         "name": "Методика поверки Leica NA300, Leica NA500",
         "url": "https://www.geooptic.ru/static/files/Metodika_poverki_Leica_NA30_NA500.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/оптический-нивелир-leica-na320-+-штатив-+-рейка-3м/Методика поверки Leica NA300, Leica NA500.pdf"
+        "path": "documents/catalog/Categories/levels/Методика поверки Leica NA300, Leica NA500.pdf"
       }
     ]
   },
@@ -2855,32 +2855,32 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-620-and-carrying-case/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Сертификат Leica Rugby 600/800",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600-800-sertifikat.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-620-and-carrying-case/Сертификат Leica Rugby 600-800.pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica Rugby 600-800.pdf"
       },
       {
         "name": "Каталог Leica Rugby 600",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-620-and-carrying-case/Каталог Leica Rugby 600.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог Leica Rugby 600.pdf"
       },
       {
         "name": "Презентация: Лазерный нивелиры Leica Rugby 600 / 800",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-prezentazia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-620-and-carrying-case/Презентация- Лазерный нивелиры Leica Rugby 600 - 800.pdf"
+        "path": "documents/catalog/Categories/levels/Презентация- Лазерный нивелиры Leica Rugby 600 - 800.pdf"
       },
       {
         "name": "Leica RUGBY 600 || Описание типа средства измерений",
         "url": "https://www.geooptic.ru/static/files/opisanie-tipa-sredstv-izmerenii-Rugby_600-800.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-620-and-carrying-case/Leica RUGBY 600  Описание типа средства измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 600  Описание типа средства измерений.pdf"
       },
       {
         "name": "Leica RUGBY 610, 620, 640, 680 || Свидетельство об утверждении типа средств измерений",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600-svidetelstvo-ob-utverzhdenii-58419-14.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-620-and-carrying-case/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
       }
     ]
   },
@@ -2938,32 +2938,32 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-680-and-carrying-case/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Каталог Leica Rugby 600",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-680-and-carrying-case/Каталог Leica Rugby 600.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог Leica Rugby 600.pdf"
       },
       {
         "name": "Презентация: Лазерный нивелиры Leica Rugby 600 / 800",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-prezentazia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-680-and-carrying-case/Презентация- Лазерный нивелиры Leica Rugby 600 - 800.pdf"
+        "path": "documents/catalog/Categories/levels/Презентация- Лазерный нивелиры Leica Rugby 600 - 800.pdf"
       },
       {
         "name": "Сертификат Leica Rugby 600/800",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600-800-sertifikat.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-680-and-carrying-case/Сертификат Leica Rugby 600-800.pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica Rugby 600-800.pdf"
       },
       {
         "name": "Leica RUGBY 600 || Описание типа средства измерений",
         "url": "https://www.geooptic.ru/static/files/opisanie-tipa-sredstv-izmerenii-Rugby_600-800.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-680-and-carrying-case/Leica RUGBY 600  Описание типа средства измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 600  Описание типа средства измерений.pdf"
       },
       {
         "name": "Leica RUGBY 610, 620, 640, 680 || Свидетельство об утверждении типа средств измерений",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600-svidetelstvo-ob-utverzhdenii-58419-14.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-680-and-carrying-case/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
       }
     ]
   },
@@ -3021,32 +3021,32 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-610-and-carrying-case/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Каталог Leica Rugby 600",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-610-and-carrying-case/Каталог Leica Rugby 600.pdf"
+        "path": "documents/catalog/Categories/levels/Каталог Leica Rugby 600.pdf"
       },
       {
         "name": "Сертификат Leica Rugby 600/800",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600-800-sertifikat.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-610-and-carrying-case/Сертификат Leica Rugby 600-800.pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica Rugby 600-800.pdf"
       },
       {
         "name": "Презентация: Лазерный нивелиры Leica Rugby 600 / 800",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-prezentazia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-610-and-carrying-case/Презентация- Лазерный нивелиры Leica Rugby 600 - 800.pdf"
+        "path": "documents/catalog/Categories/levels/Презентация- Лазерный нивелиры Leica Rugby 600 - 800.pdf"
       },
       {
         "name": "Leica RUGBY 600 || Описание типа средства измерений",
         "url": "https://www.geooptic.ru/static/files/opisanie-tipa-sredstv-izmerenii-Rugby_600-800.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-610-and-carrying-case/Leica RUGBY 600  Описание типа средства измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 600  Описание типа средства измерений.pdf"
       },
       {
         "name": "Leica RUGBY 610, 620, 640, 680 || Свидетельство об утверждении типа средств измерений",
         "url": "https://www.geooptic.ru/static/files/leica-rugby-600-svidetelstvo-ob-utverzhdenii-58419-14.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/ротационный-нивелир-leica-rugby-610-and-carrying-case/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
+        "path": "documents/catalog/Categories/levels/Leica RUGBY 610, 620, 640, 680  Свидетельство об утверждении типа средств измерений.pdf"
       }
     ]
   },
@@ -3096,27 +3096,27 @@
       {
         "name": "leica-sprinter-50-instrukzia",
         "url": "https://www.geooptic.ru/static/files/leica-sprinter-50-instrukzia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-50/leica-sprinter-50-instrukzia.pdf"
+        "path": "documents/catalog/Categories/levels/leica-sprinter-50-instrukzia.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-50/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Презентация цифровые нивелиры Leica Sprinter 50/150/150M/250M",
         "url": "https://www.geooptic.ru/static/files/leica-sprinter-prezentacia.ppt",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-50/Презентация цифровые нивелиры Leica Sprinter 50-150-150M-250M.ppt"
+        "path": "documents/catalog/Categories/levels/Презентация цифровые нивелиры Leica Sprinter 50-150-150M-250M.ppt"
       },
       {
         "name": "Оптические и цифровые нивелиры Leica",
         "url": "https://www.geooptic.ru/static/files/opticheskie-i-tzifrovie-niveliry-leica.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-50/Оптические и цифровые нивелиры Leica.pdf"
+        "path": "documents/catalog/Categories/levels/Оптические и цифровые нивелиры Leica.pdf"
       },
       {
         "name": "Сертификат Leica Sprinter 50/150/150M/250M (2019 г.)",
         "url": "https://www.geooptic.ru/static/files/leica-sprinter-50-150m-250m-sertifikat-2019.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-50/Сертификат Leica Sprinter 50-150-150M-250M (2019 г.).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica Sprinter 50-150-150M-250M (2019 г.).pdf"
       }
     ]
   },
@@ -3166,27 +3166,27 @@
       {
         "name": "leica-sprinter-150-150m-250m-instrukzia",
         "url": "https://www.geooptic.ru/static/files/leica-sprinter-150-150m-250m-instrukzia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-150m/leica-sprinter-150-150m-250m-instrukzia.pdf"
+        "path": "documents/catalog/Categories/levels/leica-sprinter-150-150m-250m-instrukzia.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-150m/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Презентация цифровые нивелиры Leica Sprinter 50/150/150M/250M",
         "url": "https://www.geooptic.ru/static/files/leica-sprinter-prezentacia.ppt",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-150m/Презентация цифровые нивелиры Leica Sprinter 50-150-150M-250M.ppt"
+        "path": "documents/catalog/Categories/levels/Презентация цифровые нивелиры Leica Sprinter 50-150-150M-250M.ppt"
       },
       {
         "name": "Оптические и цифровые нивелиры Leica",
         "url": "https://www.geooptic.ru/static/files/opticheskie-i-tzifrovie-niveliry-leica.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-150m/Оптические и цифровые нивелиры Leica.pdf"
+        "path": "documents/catalog/Categories/levels/Оптические и цифровые нивелиры Leica.pdf"
       },
       {
         "name": "Сертификат Leica Sprinter 50/150/150M/250M (2019 г.)",
         "url": "https://www.geooptic.ru/static/files/leica-sprinter-50-150m-250m-sertifikat-2019.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-150m/Сертификат Leica Sprinter 50-150-150M-250M (2019 г.).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica Sprinter 50-150-150M-250M (2019 г.).pdf"
       }
     ]
   },
@@ -3236,27 +3236,27 @@
       {
         "name": "leica-sprinter-150-150m-250m-instrukzia",
         "url": "https://www.geooptic.ru/static/files/leica-sprinter-150-150m-250m-instrukzia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-250m/leica-sprinter-150-150m-250m-instrukzia.pdf"
+        "path": "documents/catalog/Categories/levels/leica-sprinter-150-150m-250m-instrukzia.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-250m/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Сертификат Leica Sprinter 50/150/150M/250M (2019 г.)",
         "url": "https://www.geooptic.ru/static/files/leica-sprinter-50-150m-250m-sertifikat-2019.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-250m/Сертификат Leica Sprinter 50-150-150M-250M (2019 г.).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica Sprinter 50-150-150M-250M (2019 г.).pdf"
       },
       {
         "name": "Презентация цифровые нивелиры Leica Sprinter 50/150/150M/250M",
         "url": "https://www.geooptic.ru/static/files/leica-sprinter-prezentacia.ppt",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-250m/Презентация цифровые нивелиры Leica Sprinter 50-150-150M-250M.ppt"
+        "path": "documents/catalog/Categories/levels/Презентация цифровые нивелиры Leica Sprinter 50-150-150M-250M.ppt"
       },
       {
         "name": "Оптические и цифровые нивелиры Leica",
         "url": "https://www.geooptic.ru/static/files/opticheskie-i-tzifrovie-niveliry-leica.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-250m/Оптические и цифровые нивелиры Leica.pdf"
+        "path": "documents/catalog/Categories/levels/Оптические и цифровые нивелиры Leica.pdf"
       }
     ]
   },
@@ -3304,7 +3304,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-250m-+-рейка-gss111-+-штатив-gst101/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   },
@@ -3338,27 +3338,27 @@
       {
         "name": "leica-sprinter-150-150m-250m-instrukzia",
         "url": "https://www.geooptic.ru/static/files/leica-sprinter-150-150m-250m-instrukzia.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-150/leica-sprinter-150-150m-250m-instrukzia.pdf"
+        "path": "documents/catalog/Categories/levels/leica-sprinter-150-150m-250m-instrukzia.pdf"
       },
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-150/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Оптические и цифровые нивелиры Leica",
         "url": "https://www.geooptic.ru/static/files/opticheskie-i-tzifrovie-niveliry-leica.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-150/Оптические и цифровые нивелиры Leica.pdf"
+        "path": "documents/catalog/Categories/levels/Оптические и цифровые нивелиры Leica.pdf"
       },
       {
         "name": "Сертификат Leica Sprinter 50/150/150M/250M (2019 г.)",
         "url": "https://www.geooptic.ru/static/files/leica-sprinter-50-150m-250m-sertifikat-2019.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-150/Сертификат Leica Sprinter 50-150-150M-250M (2019 г.).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат Leica Sprinter 50-150-150M-250M (2019 г.).pdf"
       },
       {
         "name": "Презентация цифровые нивелиры Leica Sprinter 50/150/150M/250M",
         "url": "https://www.geooptic.ru/static/files/leica-sprinter-prezentacia.ppt",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-sprinter-150/Презентация цифровые нивелиры Leica Sprinter 50-150-150M-250M.ppt"
+        "path": "documents/catalog/Categories/levels/Презентация цифровые нивелиры Leica Sprinter 50-150-150M-250M.ppt"
       }
     ]
   },
@@ -3404,12 +3404,12 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-dna03/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Буклет Leica DNA03/ DNA10",
         "url": "https://www.geooptic.ru/static/files/leica-dna-buklet.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/цифровой-нивелир-leica-dna03/Буклет Leica DNA03- DNA10.pdf"
+        "path": "documents/catalog/Categories/levels/Буклет Leica DNA03- DNA10.pdf"
       }
     ]
   },
@@ -3467,7 +3467,7 @@
       {
         "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
         "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "/var/www/leica-cms/upload/documents/catalog/Categories/levels/лазерный-уровень-leica-lino-l4p1/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
+        "path": "documents/catalog/Categories/levels/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       }
     ]
   }

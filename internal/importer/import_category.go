@@ -55,13 +55,28 @@ func (db *Database) ImportCategoryFile(
 			len(product.Documents),
 		)
 
-		// На этом этапе нас интересуют только товары
-		// и их документы.
+		// Ищем уже существующие картинки.
+		// Документы здесь вообще не участвуют.
+		folder := ProductImageFolder(product.Name)
+
+		fmt.Println("Product folder:", folder)
+
+		images, err := FindImages(info.Folder, folder)
+		if err != nil {
+			return fmt.Errorf(
+				"ошибка поиска изображений товара %q: %w",
+				product.Name,
+				err,
+			)
+		}
+
+		fmt.Printf("Images: %d\n", len(images))
+
 		result, err := ImportProduct(
 			db.DB,
 			product,
 			manufacturerID,
-			nil,
+			images,
 		)
 		if err != nil {
 			return fmt.Errorf(
@@ -71,9 +86,20 @@ func (db *Database) ImportCategoryFile(
 			)
 		}
 
-		// КЛЮЧЕВАЯ ЧАСТЬ:
-		// документы берутся непосредственно из JSON.
-		// Никаких папок товаров и поиска файлов здесь нет.
+		err = ImportProductImages(
+			db.DB,
+			result.ID,
+			images,
+		)
+		if err != nil {
+			return fmt.Errorf(
+				"ошибка импорта изображений товара %q: %w",
+				product.Name,
+				err,
+			)
+		}
+
+		// А документы — совершенно отдельно.
 		err = ImportProductDocuments(
 			db.DB,
 			result.ID,
