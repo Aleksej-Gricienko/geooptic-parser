@@ -85,6 +85,36 @@ func (db *Database) ImportCategoryFile(
 				err,
 			)
 		}
+		fmt.Printf(
+			"Characteristics: %d\n",
+			len(product.Characteristics),
+		)
+
+		for name, value := range product.Characteristics {
+			attributeID, err := db.FindOrCreateAttribute(name)
+			if err != nil {
+				return fmt.Errorf(
+					"ошибка поиска/создания атрибута %q: %w",
+					name,
+					err,
+				)
+			}
+
+			err = AddProductAttribute(
+				db.DB,
+				result.ID,
+				attributeID,
+				value,
+			)
+			if err != nil {
+				return fmt.Errorf(
+					"ошибка импорта атрибута %q товара %q: %w",
+					name,
+					product.Name,
+					err,
+				)
+			}
+		}
 
 		err = ImportProductImages(
 			db.DB,

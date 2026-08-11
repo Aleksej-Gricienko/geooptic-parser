@@ -10,7 +10,7 @@ import (
 	"geooptic-parser-chromedp/models"
 )
 
-const DocumentRoot = "/var/www/leica-cms/upload/documents-test/catalog/Categories"
+const DocumentRoot = "/var/www/leica-cms/upload/documents/catalog/Categories"
 
 func sanitizeFilename(name string) string {
 	replacer := strings.NewReplacer(
