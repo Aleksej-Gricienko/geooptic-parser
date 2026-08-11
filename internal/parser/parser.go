@@ -38,12 +38,12 @@ func (p *Parser) Run() error {
 	}
 
 	// ↓ Скачиваем изображения
-	if err := DownloadImages(products); err != nil {
-		return err
-	}
+	//if err := DownloadImages(products); err != nil {
+	//	return err
+	//}
 
 	// ↓ Сохраняем товары
-	if err := DownloadDocuments(products); err != nil {
+	if err := DownloadDocuments(products, "laser-levels"); err != nil {
 		return err
 	}
 	if err := SaveProducts(products); err != nil {

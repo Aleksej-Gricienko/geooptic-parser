@@ -14,14 +14,12 @@ func main() {
 
 	defer db.DB.Close()
 
-	err = db.ImportCategoryFile("data/levels.json")
+	err = db.ImportCategoryFile(
+		"data/products.json",
+		"laser-levels",
+	)
 
 	if err != nil {
 		log.Fatal(err)
 	}
-
-	if err != nil {
-		log.Fatal(err)
-	}
-
 }

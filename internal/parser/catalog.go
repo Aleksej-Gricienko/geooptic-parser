@@ -7,7 +7,7 @@ import (
 	"github.com/chromedp/chromedp"
 )
 
-const catalogURL = "https://www.geooptic.ru/catalog/taheometry"
+const catalogURL = "https://www.geooptic.ru/catalog/lazernye-urovni"
 
 func (p *Parser) GetProductLinks() ([]string, error) {
 
@@ -23,10 +23,10 @@ func (p *Parser) GetProductLinks() ([]string, error) {
 
 		chromedp.Navigate(catalogURL),
 
-		chromedp.WaitVisible(`input[type="checkbox"][value="0"]`),
+		chromedp.WaitVisible(`input[type="checkbox"][value="3"]`),
 		chromedp.Sleep(2*time.Second),
 		chromedp.Evaluate(`
-const el = document.querySelector('input[type="checkbox"][value="0"]');
+const el = document.querySelector('input[type="checkbox"][value="3"]');
 el.checked = true;
 el.dispatchEvent(new Event('change', { bubbles: true }));
 `, nil),

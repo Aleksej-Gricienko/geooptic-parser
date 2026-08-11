@@ -2,108 +2,95 @@ package importer
 
 import (
 	"fmt"
-	"path/filepath"
 )
 
-func (db *Database) ImportCategoryFile(path string) error {
-
-	info := CategoryInfoFromFile(path)
+func (db *Database) ImportCategoryFile(
+	path string,
+	categoryFolder string,
+) error {
+	info, ok := categoryMap[categoryFolder]
+	if !ok {
+		return fmt.Errorf("неизвестная категория: %s", categoryFolder)
+	}
 
 	categoryID, err := db.FindCategoryID(info.Name)
+	if err != nil {
+		return fmt.Errorf(
+			"категория %q не найдена в БД: %w",
+			info.Name,
+			err,
+		)
+	}
+
 	fmt.Println("Category name:", info.Name)
 	fmt.Println("Category folder:", info.Folder)
-	if err != nil {
-		return err
-	}
+	fmt.Println("Category ID:", categoryID)
 
 	products, err := LoadProducts(path)
 	if err != nil {
 		return err
 	}
 
-	fmt.Printf("Category: %s (ID=%d)\n", info.Name, categoryID)
 	fmt.Printf("Products: %d\n", len(products))
 
 	if len(products) == 0 {
 		return fmt.Errorf("в файле %s нет товаров", path)
 	}
 
-	// Пока импортируем только первый товар
+	manufacturerID, err := db.FindOrCreateManufacturer(DefaultManufacturer)
+	if err != nil {
+		return err
+	}
 
 	for i, product := range products {
-		fmt.Printf("[%d/%d] %s\n", i+1, len(products), product.Name)
-		fmt.Printf("\n=========================\n")
-		fmt.Printf("Import: %s\n", product.Name)
-		fmt.Println()
-		fmt.Printf("JSON товаров: %d\n", len(products))
+		fmt.Printf(
+			"\n[%d/%d] %s\n",
+			i+1,
+			len(products),
+			product.Name,
+		)
 
-		if len(product.Documents) == 0 {
-			fmt.Printf("⚠️ Пропущен %s: нет документов\n", product.Name)
-			continue
-		}
+		fmt.Printf(
+			"Documents: %d\n",
+			len(product.Documents),
+		)
 
-		folder := filepath.Base(filepath.Dir(product.Documents[0].Path))
-
-		fmt.Println("Product folder:", folder)
-
-		images, err := FindImages(info.Folder, folder)
-		if err != nil {
-			return err
-		}
-
-		manufacturerID, err := db.FindOrCreateManufacturer(DefaultManufacturer)
-		if err != nil {
-			return err
-		}
-
+		// На этом этапе нас интересуют только товары
+		// и их документы.
 		result, err := ImportProduct(
 			db.DB,
 			product,
 			manufacturerID,
-			images,
+			nil,
 		)
 		if err != nil {
-			return err
-		}
-
-		err = ImportProductImages(db.DB, result.ID, images)
-		if err != nil {
-			return err
-		}
-
-		for name, value := range product.Characteristics {
-
-			attributeID, err := db.FindOrCreateAttribute(name)
-			if err != nil {
-				return err
-			}
-
-			err = AddProductAttribute(
-				db.DB,
-				result.ID,
-				attributeID,
-				value,
+			return fmt.Errorf(
+				"ошибка импорта товара %q: %w",
+				product.Name,
+				err,
 			)
-			if err != nil {
-				return err
-			}
 		}
 
+		// КЛЮЧЕВАЯ ЧАСТЬ:
+		// документы берутся непосредственно из JSON.
+		// Никаких папок товаров и поиска файлов здесь нет.
 		err = ImportProductDocuments(
 			db.DB,
 			result.ID,
 			product.Documents,
 		)
 		if err != nil {
-			return err
+			return fmt.Errorf(
+				"ошибка импорта документов товара %q: %w",
+				product.Name,
+				err,
+			)
 		}
-
-		keyword := ProductSEOKeyword(product.Name)
 
 		err = AddProductSEO(
 			db.DB,
 			result.ID,
-			keyword,
+			ProductSEOKeyword(product.Name),
 		)
 		if err != nil {
 			return err
@@ -122,7 +109,11 @@ func (db *Database) ImportCategoryFile(path string) error {
 			return err
 		}
 
-		fmt.Printf("✅ Imported: %s (ID=%d)\n", product.Name, result.ID)
+		fmt.Printf(
+			"✅ Imported: %s (ID=%d)\n",
+			product.Name,
+			result.ID,
+		)
 	}
 
 	return nil
