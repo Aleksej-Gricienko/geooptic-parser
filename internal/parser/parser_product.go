@@ -33,6 +33,7 @@ func (p *Parser) ParseProduct(url string) (models.Product, error) {
 	}
 
 	product.Name = parseName(doc)
+	product.Manufacturer = parseManufacturer(doc)
 	product.DescriptionHTML, product.DescriptionText = parseDescription(doc)
 	product.Characteristics = parseCharacteristics(doc)
 	product.Images = parseImages(doc)
@@ -49,6 +50,10 @@ func (p *Parser) ParseProduct(url string) (models.Product, error) {
 	}
 
 	filesDoc, err := goquery.NewDocumentFromReader(strings.NewReader(filesHTML))
+	if err != nil {
+		return models.Product{}, fmt.Errorf("ошибка разбора HTML с PDF: %w", err)
+	}
+
 	filesDoc.Find("a").Each(func(i int, s *goquery.Selection) {
 		href, _ := s.Attr("href")
 		text := strings.TrimSpace(s.Text())
@@ -58,9 +63,6 @@ func (p *Parser) ParseProduct(url string) (models.Product, error) {
 			fmt.Println("HREF =", href)
 		}
 	})
-	if err != nil {
-		return models.Product{}, fmt.Errorf("ошибка разбора HTML с PDF: %w", err)
-	}
 
 	product.Documents = parseDocuments(filesDoc)
 	fmt.Println("Документов найдено:", len(product.Documents))
@@ -108,26 +110,23 @@ func (p *Parser) getHTML(url string) (string, error) {
 }
 
 func (p *Parser) getHTMLWithFiles(url string) (string, error) {
-
 	var html string
+	var hasFilesTab bool
 
 	fmt.Println("Открываю страницу файлов:", url)
 
+	// Сначала просто открываем страницу.
 	err := chromedp.Run(
 		p.ctx,
-
 		chromedp.Navigate(url),
 		chromedp.WaitVisible("body", chromedp.ByQuery),
 
-		chromedp.Click(`//span[text()="Файлы"]`, chromedp.BySearch),
-
-		// Ждём появления хотя бы одной ссылки на документ.
-		chromedp.WaitVisible(
-			`a[href*=".pdf"], a[href*=".ppt"], a[href*=".pptx"]`,
-			chromedp.ByQuery,
-		),
-
-		chromedp.OuterHTML("html", &html, chromedp.ByQuery),
+		chromedp.Evaluate(`
+			(() => {
+				return [...document.querySelectorAll("span")]
+					.some(el => el.textContent.trim() === "Файлы");
+			})()
+		`, &hasFilesTab),
 	)
 
 	if err != nil {
@@ -138,11 +137,40 @@ func (p *Parser) getHTMLWithFiles(url string) (string, error) {
 		)
 	}
 
+	// Вкладки «Файлы» нет — у товара просто нет документов.
+	if !hasFilesTab {
+		fmt.Println("Вкладка «Файлы» отсутствует — документов нет")
+		return "", nil
+	}
+
+	fmt.Println("Вкладка «Файлы» найдена")
+
+	// Открываем вкладку.
+	err = chromedp.Run(
+		p.ctx,
+
+		chromedp.Click(
+			`//span[text()="Файлы"]`,
+			chromedp.BySearch,
+		),
+
+		chromedp.Sleep(1*time.Second),
+
+		chromedp.OuterHTML("html", &html, chromedp.ByQuery),
+	)
+
+	if err != nil {
+		return "", fmt.Errorf(
+			"ошибка открытия вкладки файлов %s: %w",
+			url,
+			err,
+		)
+	}
+
 	fmt.Println("HTML файлов получен, размер:", len(html))
 
 	return html, nil
 }
-
 func parseName(doc *goquery.Document) string {
 	return strings.TrimSpace(doc.Find("h1").First().Text())
 }
@@ -199,16 +227,50 @@ func parseCharacteristics(doc *goquery.Document) map[string]string {
 
 	return result
 }
+func parseManufacturer(doc *goquery.Document) string {
+	var manufacturer string
+
+	doc.Find("*").EachWithBreak(func(i int, s *goquery.Selection) bool {
+		text := strings.TrimSpace(s.Text())
+
+		if text != "Производитель" {
+			return true
+		}
+
+		parent := s.Parent()
+
+		if parent.Length() == 0 {
+			return true
+		}
+
+		parent.Find("a").EachWithBreak(func(i int, a *goquery.Selection) bool {
+			value := strings.TrimSpace(a.Text())
+
+			if value != "" && value != "Производитель" {
+				manufacturer = value
+				return false
+			}
+
+			return true
+		})
+
+		return manufacturer == ""
+	})
+
+	return manufacturer
+}
 
 func parseImages(doc *goquery.Document) []string {
-
 	var images []string
 
 	doc.Find(".imgs .img img").Each(func(i int, s *goquery.Selection) {
-
 		src, ok := s.Attr("src")
 		if !ok {
 			return
+		}
+
+		if strings.HasSuffix(strings.ToLower(src), "-1.jpg") {
+			src = src[:len(src)-len("-1.jpg")] + "-0.jpg"
 		}
 
 		images = append(images, src)
@@ -230,6 +292,12 @@ func parseDocuments(doc *goquery.Document) []models.ProductDocument {
 		}
 
 		lower := strings.ToLower(href)
+		if strings.EqualFold(
+			filepath.Base(href),
+			"geooptic_sertificate_2022.pdf",
+		) {
+			return
+		}
 
 		if !strings.HasSuffix(lower, ".pdf") &&
 			!strings.HasSuffix(lower, ".ppt") &&

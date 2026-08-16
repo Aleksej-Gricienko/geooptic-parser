@@ -7,6 +7,7 @@ import (
 func (db *Database) ImportCategoryFile(
 	path string,
 	categoryFolder string,
+	manufacturerName string,
 ) error {
 	info, ok := categoryMap[categoryFolder]
 	if !ok {
@@ -37,11 +38,6 @@ func (db *Database) ImportCategoryFile(
 		return fmt.Errorf("в файле %s нет товаров", path)
 	}
 
-	manufacturerID, err := db.FindOrCreateManufacturer(DefaultManufacturer)
-	if err != nil {
-		return err
-	}
-
 	for i, product := range products {
 		fmt.Printf(
 			"\n[%d/%d] %s\n",
@@ -50,13 +46,48 @@ func (db *Database) ImportCategoryFile(
 			product.Name,
 		)
 
+		// -------------------------------------------------
+		// Производитель
+		// -------------------------------------------------
+		// Для смешанных файлов (например software.json)
+		// берём производителя из самого товара.
+		// Если его нет — используем manufacturerName
+		// из main.go как запасной вариант.
+		productManufacturer := product.Manufacturer
+
+		if productManufacturer == "" {
+			productManufacturer = manufacturerName
+		}
+
+		var manufacturerID int64
+
+		if productManufacturer != "" {
+			manufacturerID, err = db.FindOrCreateManufacturer(productManufacturer)
+			if err != nil {
+				return fmt.Errorf(
+					"ошибка производителя %q товара %q: %w",
+					productManufacturer,
+					product.Name,
+					err,
+				)
+			}
+		}
+
+		fmt.Printf(
+			"Manufacturer: %s (ID=%d)\n",
+			productManufacturer,
+			manufacturerID,
+		)
+
 		fmt.Printf(
 			"Documents: %d\n",
 			len(product.Documents),
 		)
 
-		// Ищем уже существующие картинки.
-		// Документы здесь вообще не участвуют.
+		// -------------------------------------------------
+		// Изображения
+		// -------------------------------------------------
+
 		folder := ProductImageFolder(product.Name)
 
 		fmt.Println("Product folder:", folder)
@@ -72,6 +103,10 @@ func (db *Database) ImportCategoryFile(
 
 		fmt.Printf("Images: %d\n", len(images))
 
+		// -------------------------------------------------
+		// Товар
+		// -------------------------------------------------
+
 		result, err := ImportProduct(
 			db.DB,
 			product,
@@ -85,6 +120,11 @@ func (db *Database) ImportCategoryFile(
 				err,
 			)
 		}
+
+		// -------------------------------------------------
+		// Характеристики
+		// -------------------------------------------------
+
 		fmt.Printf(
 			"Characteristics: %d\n",
 			len(product.Characteristics),
@@ -116,6 +156,10 @@ func (db *Database) ImportCategoryFile(
 			}
 		}
 
+		// -------------------------------------------------
+		// Изображения товара
+		// -------------------------------------------------
+
 		err = ImportProductImages(
 			db.DB,
 			result.ID,
@@ -129,7 +173,10 @@ func (db *Database) ImportCategoryFile(
 			)
 		}
 
-		// А документы — совершенно отдельно.
+		// -------------------------------------------------
+		// Документы
+		// -------------------------------------------------
+
 		err = ImportProductDocuments(
 			db.DB,
 			result.ID,
@@ -143,6 +190,10 @@ func (db *Database) ImportCategoryFile(
 			)
 		}
 
+		// -------------------------------------------------
+		// SEO
+		// -------------------------------------------------
+
 		err = AddProductSEO(
 			db.DB,
 			result.ID,
@@ -152,6 +203,10 @@ func (db *Database) ImportCategoryFile(
 			return err
 		}
 
+		// -------------------------------------------------
+		// Категория
+		// -------------------------------------------------
+
 		err = db.LinkProductToCategory(
 			result.ID,
 			categoryID,
@@ -159,6 +214,10 @@ func (db *Database) ImportCategoryFile(
 		if err != nil {
 			return err
 		}
+
+		// -------------------------------------------------
+		// Store
+		// -------------------------------------------------
 
 		err = db.LinkProductToStore(result.ID)
 		if err != nil {

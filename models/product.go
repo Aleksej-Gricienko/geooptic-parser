@@ -10,6 +10,7 @@ type Product struct {
 	Name            string            `json:"name"`
 	Slug            string            `json:"slug"`
 	URL             string            `json:"url"`
+	Manufacturer    string            `json:"manufacturer"`
 	DescriptionHTML string            `json:"description_html"`
 	DescriptionText string            `json:"description_text"`
 	Characteristics map[string]string `json:"characteristics"`

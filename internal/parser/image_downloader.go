@@ -37,14 +37,18 @@ func downloadFile(url, filename string) error {
 	_, err = io.Copy(file, resp.Body)
 	return err
 }
-func DownloadImages(products []models.Product) error {
+func DownloadImages(products []models.Product, category string) error {
+	categoryDir := filepath.Join(ImageRoot, category)
 
-	if err := os.MkdirAll(ImageRoot, 0755); err != nil {
+	if err := os.MkdirAll(categoryDir, 0755); err != nil {
 		return err
 	}
 
 	for _, product := range products {
-		productDir := filepath.Join(ImageRoot, createSlug(product.Name))
+		productDir := filepath.Join(
+			categoryDir,
+			createSlug(product.Name),
+		)
 
 		if err := os.MkdirAll(productDir, 0755); err != nil {
 			fmt.Println("Ошибка создания папки:", err)
@@ -57,19 +61,17 @@ func DownloadImages(products []models.Product) error {
 		}
 
 		for i, imageURL := range product.Images {
-
 			filename := fmt.Sprintf("%d.jpg", i+1)
-
 			fullPath := filepath.Join(productDir, filename)
 
 			fmt.Println("Скачиваю:", filename)
 
-			err := downloadFile(imageURL, fullPath)
-			if err != nil {
+			if err := downloadFile(imageURL, fullPath); err != nil {
 				fmt.Println("Ошибка:", err)
 				continue
 			}
 		}
 	}
+
 	return nil
 }

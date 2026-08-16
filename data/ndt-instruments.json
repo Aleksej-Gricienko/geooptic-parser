@@ -3,20 +3,16 @@
     "name": "Локационный кабель Leica Digitrace 50",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digitrace-50",
+    "manufacturer": "Leica",
     "description_html": "DIGITRACE 50 - это медная проволока в стекловолоконной оплетке длиной 50 м. Позволяет трассировать трубу или другой неметаллический продуктопровод при использовании DIGIСAT 100/200, DIGITEX 8/33. Проволока  вводится в трубопровод с целью его исследования. После этого, к ней  подключается генератор DIGITEX8/33, и сигнал на поверхности земли принимается DIGICAT 100/200.",
     "description_text": "DIGITRACE 50 - это медная проволока в стекловолоконной оплетке длиной 50 м. Позволяет трассировать трубу или другой неметаллический продуктопровод при использовании DIGIСAT 100/200, DIGITEX 8/33. Проволока  вводится в трубопровод с целью его исследования. После этого, к ней  подключается генератор DIGITEX8/33, и сигнал на поверхности земли принимается DIGICAT 100/200.",
     "characteristics": {
       "Гарантия": "1 год"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/c6daa4bb8dd7d7fd1c3eb674b996489716706e87-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/c6daa4bb8dd7d7fd1c3eb674b996489716706e87-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-fx-bro.pdf",
@@ -28,18 +24,14 @@
     "name": "Чехол для трассоискателя Leica (DIGICAT 550/650)",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-740307",
+    "manufacturer": "Leica",
     "description_html": "Сумка для трассоискателя Leica DIGICAT 650i",
     "description_text": "Сумка для трассоискателя Leica DIGICAT 650i",
     "characteristics": {},
     "images": [
-      "https://www.geooptic.ru/static/thumbs/4aa64b1078e6b71711580e28dd64f84295b73584-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/4aa64b1078e6b71711580e28dd64f84295b73584-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-xf-series-broshyura.pdf",
@@ -51,63 +43,49 @@
     "name": "Клещи идукционные Leica 731056 (200 мм)",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-731056",
+    "manufacturer": "Leica",
     "description_html": "Клещи измерительные помогают отследить заданную коммуникацию в районах с высокой коммуникационной насыщенностью.",
     "description_text": "Клещи измерительные помогают отследить заданную коммуникацию в районах с высокой коммуникационной насыщенностью.",
     "characteristics": {
       "Гарантия": "1 год"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/3737cc253b24995bc4512adeaae78a1483a5e8c6-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/3737cc253b24995bc4512adeaae78a1483a5e8c6-0.jpg"
     ],
-    "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      }
-    ]
+    "documents": null
   },
   {
     "name": "Комплект заземления Leica Digiacc 05 set",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digiacc-05-set",
+    "manufacturer": "Leica",
     "description_html": "",
     "description_text": "",
     "characteristics": {},
     "images": [
-      "https://www.geooptic.ru/static/thumbs/50765fdca24e8325ce2c29051643eb5e3f1556c3-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/50765fdca24e8325ce2c29051643eb5e3f1556c3-0.jpg"
     ],
-    "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      }
-    ]
+    "documents": null
   },
   {
     "name": "Локационный кабель Leica Digitrace 30",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digitrace-30",
+    "manufacturer": "Leica",
     "description_html": "DIGITRACE 30 - это медная проволока в стекловолоконной оплетке длиной 30 м. Позволяет трассировать трубу или другой неметаллический продуктопровод при использовании DIGIСAT 100/200, DIGITEX 8/33. Проволока  вводится в трубопровод с целью его исследования. После этого, к ней  подключается генератор DIGITEX8/33, и сигнал на поверхности земли принимается DIGICAT 100/200.",
     "description_text": "DIGITRACE 30 - это медная проволока в стекловолоконной оплетке длиной 30 м. Позволяет трассировать трубу или другой неметаллический продуктопровод при использовании DIGIСAT 100/200, DIGITEX 8/33. Проволока  вводится в трубопровод с целью его исследования. После этого, к ней  подключается генератор DIGITEX8/33, и сигнал на поверхности земли принимается DIGICAT 100/200.",
     "characteristics": {
       "Гарантия": "1 год"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/44e6a91ff93f923d3b192aa2967c1e95ccb3ac2e-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/c9cfe1e7f0a7c5a953915d2970f1731387fb238f-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/2ee0ec7253c976a981121befe6d7b56ee4bb031a-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/b64800b8233141888804c629215566029749449c-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/9bf6c9a5d08208ed3f2541d57ab9cdb7123fb6d1-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/d374ad2b606cd44c49b44fa9c11267d0d4ac8b18-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/44e6a91ff93f923d3b192aa2967c1e95ccb3ac2e-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/c9cfe1e7f0a7c5a953915d2970f1731387fb238f-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/2ee0ec7253c976a981121befe6d7b56ee4bb031a-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/b64800b8233141888804c629215566029749449c-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/9bf6c9a5d08208ed3f2541d57ab9cdb7123fb6d1-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/d374ad2b606cd44c49b44fa9c11267d0d4ac8b18-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-fx-bro.pdf",
@@ -119,18 +97,14 @@
     "name": "Кабель соединительный Leica 731668 (DigiTex/внутр)",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-731668",
+    "manufacturer": "Leica",
     "description_html": "",
     "description_text": "",
     "characteristics": {},
     "images": [
-      "https://www.geooptic.ru/static/thumbs/02f187887dac965bc5c991b2a6ed60770441969a-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/02f187887dac965bc5c991b2a6ed60770441969a-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-xf-series-broshyura.pdf",
@@ -142,22 +116,18 @@
     "name": "Генератор Leica Digitex 300t",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digitex-300t",
+    "manufacturer": "Leica",
     "description_html": "Двухчастотный генератор сигналов. Разработанный для использования с локаторами Leica Digicat позволяем легко обнаружить и точно проследить направление подземных коммуникаций",
     "description_text": "Двухчастотный генератор сигналов. Разработанный для использования с локаторами Leica Digicat позволяем легко обнаружить и точно проследить направление подземных коммуникаций",
     "characteristics": {
       "Гарантия": "1 год"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/a9d7af183523cee9da1c6a2267409a83bff7362a-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/02001bb9b35d13c2dbc67a32dd657bee22c2e9ea-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/ff85bcf2454ed13010dacd98127e206478db8c25-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/a9d7af183523cee9da1c6a2267409a83bff7362a-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/02001bb9b35d13c2dbc67a32dd657bee22c2e9ea-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/ff85bcf2454ed13010dacd98127e206478db8c25-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-xf-series-broshyura.pdf",
@@ -169,6 +139,7 @@
     "name": "Трассоискатель Leica Digicat 550i xf",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digicat-550i-xf",
+    "manufacturer": "Leica",
     "description_html": "Трассоискатель Leica Digicat 550i xf разработан для использования специалистами различного профиля: геодезистами, работниками хозяйственных и коммунальных служб, ремонтными рабочими, трубопрокладчиками. \n\u003cbr/\u003e\n\u003cbr/\u003eЛокаторы Leica Digicat xf работают в нескольких режимах, что позволяет добиться лучшего контроля ситуации. \n\u003cbr/\u003eРежим Авто: Автоматически определяет сигналы от радио- или силовых коммуникаций, что позволяет сразу узнать о наличии тех или иных коммуникаций на объекте.\n\u003cbr/\u003eРежим Радио: Определяет сигналы от удаленных радиопередатчиков. Сигналы проходят через землю и переотражаются проводящими коммуникациями. \n\u003cbr/\u003eРежим Power: Определяет сигналы, излучаемые кабелями под напряжением, которые как раз и представляют наибольшую опасность при проведении земляных работ.",
     "description_text": "Трассоискатель Leica Digicat 550i xf разработан для использования специалистами различного профиля: геодезистами, работниками хозяйственных и коммунальных служб, ремонтными рабочими, трубопрокладчиками. \n\nЛокаторы Leica Digicat xf работают в нескольких режимах, что позволяет добиться лучшего контроля ситуации. \nРежим Авто: Автоматически определяет сигналы от радио- или силовых коммуникаций, что позволяет сразу узнать о наличии тех или иных коммуникаций на объекте.\nРежим Радио: Определяет сигналы от удаленных радиопередатчиков. Сигналы проходят через землю и переотражаются проводящими коммуникациями. \nРежим Power: Определяет сигналы, излучаемые кабелями под напряжением, которые как раз и представляют наибольшую опасность при проведении земляных работ.",
     "characteristics": {
@@ -181,18 +152,13 @@
       "Степень защиты": "IP54"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/82c67da6aee97d356ac80233e9290dcf7d07aefb-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/86aded2ca1cd89dd4e7b3e193530f633d3086ba8-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/dd685e287e5188ed4bdf10b2cc881a3e32763f30-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/b826a1d7190760374779aaeb41ac0736a3a54291-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/43c7f16216b745308d9c043857c3223542d47171-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/82c67da6aee97d356ac80233e9290dcf7d07aefb-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/86aded2ca1cd89dd4e7b3e193530f633d3086ba8-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/dd685e287e5188ed4bdf10b2cc881a3e32763f30-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/b826a1d7190760374779aaeb41ac0736a3a54291-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/43c7f16216b745308d9c043857c3223542d47171-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-fx-bro.pdf",
@@ -214,6 +180,7 @@
     "name": "Трассоискатель Leica Digicat 550i",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digicat-550i",
+    "manufacturer": "Leica",
     "description_html": "Особенности трассопоисковое оборудование Leica DigiSystem:\n\u003cbr/\u003e- Оценка глубины залегания до 3 м,\n\u003cbr/\u003e- Простое в использовании,\n\u003cbr/\u003e- Цифровая обработка сигнала – точный минимального времени освоения,\n\u003cbr/\u003e- Контрастный ЖК дисплей с подстройкой под и безошибочный поиск в условиях строительной площадки,\n\u003cbr/\u003e- При запуске входит в режим максимальной - регулируемая выходная мощность чувствительности, \n\u003cbr/\u003e- Высокая прочность, водонепроницаемость – безопасные условия работы,\n\u003cbr/\u003e- Автоматическая настройка - предназначен для работы в самых суровых условиях,\n\u003cbr/\u003e- Самотестирование при включении, \n\u003cbr/\u003e- Визуальное и звуковое оповещение о готовности к работе.\n\u003cbr/\u003e\n\u003cbr/\u003eКомпания Leica Geosystems предлагает систему для поиска подземных коммуникаций DigiSystem. Digicat 550i ведет поиск подземных проводников, принимая испускаемый ими электромагнитный сигнал. \n\u003cbr/\u003e\n\u003cbr/\u003eПрограммное обеспечение Digicat анализирует данные и представляет их в визуальном и звуковом виде (позволяя оценить, в каком направлении расположен объект). Маркируют положение коммуникаций прямо на поверхности земли или при помощи ГИС-устройств (для моделей Digicat с функционалом Bluetooth), так что бригада, выполняющая земляные работы может оперативно скорректировать свои планы.\n\u003cbr/\u003e\n\u003cbr/\u003eПростая и удобная в работе – эта система позволяет избежать повреждений объектов, расположенных под землей и как следствие, сократить финансовые расходы и потери рабочего времени.\n\u003cbr/\u003e\n\u003cbr/\u003eСистема DigiSystem может использоваться для поиска действующих (находящихся под напряжением) силовых кабелей, металлических объектов, отражающих сигналы, а также для трассировки пластиковых труб, дренажных каналов и других неметаллических коммуникаций. Трассопоисковая система DigiSystem легко адаптируется под решение любых задач, благодаря широкому выбору аксессуаров и модельному ряду.\n\u003cbr/\u003e\n\u003cbr/\u003eУсловия поставки:\n\u003cbr/\u003e- Отгрузка оборудования осуществляется со склада в Москве.\n\u003cbr/\u003e- Гарантийное обслуживание.\n\u003cbr/\u003e- Срок гарантийного обслуживания оборудования Leica составляет 1 год. Ремонт и техническое обслуживание производится в специализированном сервисном центре компании НАВГЕОКОМ в Москве.",
     "description_text": "Особенности трассопоисковое оборудование Leica DigiSystem:\n- Оценка глубины залегания до 3 м,\n- Простое в использовании,\n- Цифровая обработка сигнала – точный минимального времени освоения,\n- Контрастный ЖК дисплей с подстройкой под и безошибочный поиск в условиях строительной площадки,\n- При запуске входит в режим максимальной - регулируемая выходная мощность чувствительности, \n- Высокая прочность, водонепроницаемость – безопасные условия работы,\n- Автоматическая настройка - предназначен для работы в самых суровых условиях,\n- Самотестирование при включении, \n- Визуальное и звуковое оповещение о готовности к работе.\n\nКомпания Leica Geosystems предлагает систему для поиска подземных коммуникаций DigiSystem. Digicat 550i ведет поиск подземных проводников, принимая испускаемый ими электромагнитный сигнал. \n\nПрограммное обеспечение Digicat анализирует данные и представляет их в визуальном и звуковом виде (позволяя оценить, в каком направлении расположен объект). Маркируют положение коммуникаций прямо на поверхности земли или при помощи ГИС-устройств (для моделей Digicat с функционалом Bluetooth), так что бригада, выполняющая земляные работы может оперативно скорректировать свои планы.\n\nПростая и удобная в работе – эта система позволяет избежать повреждений объектов, расположенных под землей и как следствие, сократить финансовые расходы и потери рабочего времени.\n\nСистема DigiSystem может использоваться для поиска действующих (находящихся под напряжением) силовых кабелей, металлических объектов, отражающих сигналы, а также для трассировки пластиковых труб, дренажных каналов и других неметаллических коммуникаций. Трассопоисковая система DigiSystem легко адаптируется под решение любых задач, благодаря широкому выбору аксессуаров и модельному ряду.\n\nУсловия поставки:\n- Отгрузка оборудования осуществляется со склада в Москве.\n- Гарантийное обслуживание.\n- Срок гарантийного обслуживания оборудования Leica составляет 1 год. Ремонт и техническое обслуживание производится в специализированном сервисном центре компании НАВГЕОКОМ в Москве.",
     "characteristics": {
@@ -226,16 +193,11 @@
       "Степень защиты": "IP54"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/33ec6e075b4336158d0d5e0f369b861ab16fac4d-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/f053858510ef9a1024504be4e75ecdbd21b403a3-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/ee138f688495ed737930209a129397474bccc9b6-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/33ec6e075b4336158d0d5e0f369b861ab16fac4d-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/f053858510ef9a1024504be4e75ecdbd21b403a3-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/ee138f688495ed737930209a129397474bccc9b6-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Презентация: \"Обучение Leica Digicat\"",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem.pdf",
@@ -252,6 +214,7 @@
     "name": "Трассоискатель Leica Digicat 650i",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digicat-650i",
+    "manufacturer": "Leica",
     "description_html": "Digicat 650i ведет поиск подземных проводников, принимая испускаемый ими электромагнитный сигнал. Программное обеспечение Digicat анализирует данные и представляет их в визуальном и звуковом виде (позволяя оценить, в каком направлении расположен объект). Маркируют положение коммуникаций прямо на поверхности земли или при помощи ГИС-устройств (для связи с ними имеется Bluetooth), так что бригада, выполняющая земляные работы может оперативно скорректировать свои планы.\n\u003cbr/\u003e\u003ciframe width=\"900\" height=\"506\" src=\"https://www.youtube.com/embed/9LOvUFLLKDw?list=PLp6Sf4UAL47C1tMFt6judgKyLwEO0aM4r\u0026amp;controls=0\u0026amp;showinfo=0\" frameborder=\"0\" allowfullscreen=\"\"\u003e\u003c/iframe\u003e\n\u003cbr/\u003eСистема DigiSystem может использоваться для поиска действующих (находящихся под напряжением) силовых кабелей, металлических объектов, отражающих сигналы, а также для трассировки пластиковых труб, дренажных каналов и других неметаллических коммуникаций. Трассопоисковая система DigiSystem легко адаптируется под решение любых задач, благодаря широкому выбору аксессуаров и модельному ряду.\n\u003cbr/\u003e \n\u003cbr/\u003eГлавное новшество системы и отличие от предыдущих моделей – возможность соединения с локатором по Bluetooth (в каждой модели) для передачи ASCII-файла, содержащего данные о номере точки и глубине залегании коммуникации в этой точке на устройства поддерживающие прием таких файлов (компьютеры, планшетники, смартфоны, контроллеры GPS). Также новшеством является возможность накапливания данных внутри устройства для последующей передачи на другие интерфейсы.",
     "description_text": "Digicat 650i ведет поиск подземных проводников, принимая испускаемый ими электромагнитный сигнал. Программное обеспечение Digicat анализирует данные и представляет их в визуальном и звуковом виде (позволяя оценить, в каком направлении расположен объект). Маркируют положение коммуникаций прямо на поверхности земли или при помощи ГИС-устройств (для связи с ними имеется Bluetooth), так что бригада, выполняющая земляные работы может оперативно скорректировать свои планы.\n\nСистема DigiSystem может использоваться для поиска действующих (находящихся под напряжением) силовых кабелей, металлических объектов, отражающих сигналы, а также для трассировки пластиковых труб, дренажных каналов и других неметаллических коммуникаций. Трассопоисковая система DigiSystem легко адаптируется под решение любых задач, благодаря широкому выбору аксессуаров и модельному ряду.\n \nГлавное новшество системы и отличие от предыдущих моделей – возможность соединения с локатором по Bluetooth (в каждой модели) для передачи ASCII-файла, содержащего данные о номере точки и глубине залегании коммуникации в этой точке на устройства поддерживающие прием таких файлов (компьютеры, планшетники, смартфоны, контроллеры GPS). Также новшеством является возможность накапливания данных внутри устройства для последующей передачи на другие интерфейсы.",
     "characteristics": {
@@ -264,18 +227,13 @@
       "Степень защиты": "IP54"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/1063e394afaa012cf6f40c87da9ee9902abbb2c5-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/4a7be24b60371ed1a672148851be54fbbaf63828-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/f7ca43c1b3e6ad44fbf914d4d518321d0ce4416f-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/1d84f304846268598d2906db6d5fb11bda60e0b2-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/3be9714ed79851b84cce03971e75531e2a9ad517-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/1063e394afaa012cf6f40c87da9ee9902abbb2c5-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/4a7be24b60371ed1a672148851be54fbbaf63828-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/f7ca43c1b3e6ad44fbf914d4d518321d0ce4416f-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/1d84f304846268598d2906db6d5fb11bda60e0b2-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/3be9714ed79851b84cce03971e75531e2a9ad517-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Презентация: \"Обучение Leica Digicat\"",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem.pdf",
@@ -292,21 +250,17 @@
     "name": "Миниантенна излучающая Leica Digimouse (40 мм)",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digimouse-731053",
+    "manufacturer": "Leica",
     "description_html": "Миниантенна излучающая Leica Digimouse (40 мм)",
     "description_text": "Миниантенна излучающая Leica Digimouse (40 мм)",
     "characteristics": {
       "Гарантия": "1 год"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/445806ca76ef7f2893a928612624b8a4f0a81404-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/6b752ef6f0a67c4a405dba46f281d3da908fa9cb-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/445806ca76ef7f2893a928612624b8a4f0a81404-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/6b752ef6f0a67c4a405dba46f281d3da908fa9cb-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-fx-bro.pdf",
@@ -318,25 +272,21 @@
     "name": "Генератор Leica Digitex 100t",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digitex-100t",
+    "manufacturer": "Leica",
     "description_html": "Компактность прибора и высокий уровень защиты генератора от внешних условий (IP65) гарантируют работу в любую погоду",
     "description_text": "Компактность прибора и высокий уровень защиты генератора от внешних условий (IP65) гарантируют работу в любую погоду",
     "characteristics": {
       "Гарантия": "1 год"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/9396829d02928221273d7d2a48e6c66e5c86be61-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/aa20db31dc7eef0186e075330d9cf2f1f098e69d-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/a708ca237d0e98344f974c599f45cd24e20be802-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/c7c1b9e6659b1ea34c04a2a5e162242666eecb0d-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/f6e6558cda5214a551b2f681558d298db8acadf8-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/0c1b19a909f3a5d5da9bd1cb6b65e8c3f246e200-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/9396829d02928221273d7d2a48e6c66e5c86be61-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/aa20db31dc7eef0186e075330d9cf2f1f098e69d-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/a708ca237d0e98344f974c599f45cd24e20be802-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/c7c1b9e6659b1ea34c04a2a5e162242666eecb0d-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/f6e6558cda5214a551b2f681558d298db8acadf8-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/0c1b19a909f3a5d5da9bd1cb6b65e8c3f246e200-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-xf-series-broshyura.pdf",
@@ -348,20 +298,16 @@
     "name": "Локационный кабель Leica Digitrace 80",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digitrace-80",
+    "manufacturer": "Leica",
     "description_html": "DIGITRACE 80 - это медная проволока в стекловолоконной оплетке длиной 80 м. Позволяет трассировать трубу или другой неметаллический продуктопровод при использовании DIGIСAT 100/200, DIGITEX 8/33. Проволока  вводится в трубопровод с целью его исследования. После этого, к ней  подключается генератор DIGITEX8/33, и сигнал на поверхности земли принимается DIGICAT 100/200.",
     "description_text": "DIGITRACE 80 - это медная проволока в стекловолоконной оплетке длиной 80 м. Позволяет трассировать трубу или другой неметаллический продуктопровод при использовании DIGIСAT 100/200, DIGITEX 8/33. Проволока  вводится в трубопровод с целью его исследования. После этого, к ней  подключается генератор DIGITEX8/33, и сигнал на поверхности земли принимается DIGICAT 100/200.",
     "characteristics": {
       "Гарантия": "1 год"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/c6daa4bb8dd7d7fd1c3eb674b996489716706e87-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/c6daa4bb8dd7d7fd1c3eb674b996489716706e87-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-fx-bro.pdf",
@@ -373,23 +319,19 @@
     "name": "Генератор Leica Digitex 100t xf",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digitex-100t-xf",
+    "manufacturer": "Leica",
     "description_html": "Двухчастотный генератор сигналов. Разработанный для использования с локаторами Leica Digicat позволяем легко обнаружить и точно проследить направление подземных коммуникаций",
     "description_text": "Двухчастотный генератор сигналов. Разработанный для использования с локаторами Leica Digicat позволяем легко обнаружить и точно проследить направление подземных коммуникаций",
     "characteristics": {
       "Гарантия": "1 год"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/7e5583fd9de0ced946baf7ab7268121006000a8c-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/3884e8fbec45d14c64bf3f980787a35a955babe6-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/08f9b0524f4ffd9032b2b8206f07225eca9ad2c8-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/ff85bcf2454ed13010dacd98127e206478db8c25-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/7e5583fd9de0ced946baf7ab7268121006000a8c-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/3884e8fbec45d14c64bf3f980787a35a955babe6-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/08f9b0524f4ffd9032b2b8206f07225eca9ad2c8-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/ff85bcf2454ed13010dacd98127e206478db8c25-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-xf-series-broshyura.pdf",
@@ -401,22 +343,18 @@
     "name": "Генератор Leica Digitex 8/33",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digitex-833",
+    "manufacturer": "Leica",
     "description_html": "",
     "description_text": "",
     "characteristics": {},
     "images": [
-      "https://www.geooptic.ru/static/thumbs/616f20de786358921b54f0a4c39a686bce013b5c-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/bf54f1a2664ea4c7c12afe1c2e952ab9c8c49a74-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/4379a39cedaf1aa904e6b19828450c79a4e56e19-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/fd4602cfd1cedc98533328dff83d01211160f12e-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/e1551e2bb98b10b6e5a24a896d8ef542dc88c6e6-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/616f20de786358921b54f0a4c39a686bce013b5c-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/bf54f1a2664ea4c7c12afe1c2e952ab9c8c49a74-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/4379a39cedaf1aa904e6b19828450c79a4e56e19-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/fd4602cfd1cedc98533328dff83d01211160f12e-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/e1551e2bb98b10b6e5a24a896d8ef542dc88c6e6-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-xf-series-broshyura.pdf",
@@ -428,6 +366,7 @@
     "name": "Трассоискатель Leica Digicat 750i xf",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digicat-750i-xf",
+    "manufacturer": "Leica",
     "description_html": "Цифровые трассоискатели Leica Geosystems делают определение местоположения подземных коммуникаций проще, чемкогда-либо ранее. Причем возможен поиск силовых, осветительных и телекоммуникационных кабелей, трубопроводов, инспекционных камер. Трассоискатели Leica Digicat серии xf обнаруживают подземные токопроводящие коммуникации, получая излучаемые от них электромагнитные сигналы.\n\u003cbr/\u003eПрограммное обеспечение интерпретирует полученную информацию и выдает оператору звуковой и визуальный сигнал, показывающий\n\u003cbr/\u003eместоположение и направление подземной коммуникации. Дополнительные частоты трассировки 512 и 640 Гц увеличивают диапазон\n\u003cbr/\u003eпоиска и позволяют обнаруживать инспекционные колодцы. \n\u003cbr/\u003eИнтегрированная технология с GPS собирает данные о том, где использовался трассоискатель. Данные легко загрузить с трассоискателя на ПК, планшетный компьютер или мобильный телефон по беспроводной связи Bluetooth® посредством ПО LOGiCAT. Информация о местоположении затем отображается на карте, удобно визуализируется, что позволяет лучше контролировать ход работ.",
     "description_text": "Цифровые трассоискатели Leica Geosystems делают определение местоположения подземных коммуникаций проще, чемкогда-либо ранее. Причем возможен поиск силовых, осветительных и телекоммуникационных кабелей, трубопроводов, инспекционных камер. Трассоискатели Leica Digicat серии xf обнаруживают подземные токопроводящие коммуникации, получая излучаемые от них электромагнитные сигналы.\nПрограммное обеспечение интерпретирует полученную информацию и выдает оператору звуковой и визуальный сигнал, показывающий\nместоположение и направление подземной коммуникации. Дополнительные частоты трассировки 512 и 640 Гц увеличивают диапазон\nпоиска и позволяют обнаруживать инспекционные колодцы. \nИнтегрированная технология с GPS собирает данные о том, где использовался трассоискатель. Данные легко загрузить с трассоискателя на ПК, планшетный компьютер или мобильный телефон по беспроводной связи Bluetooth® посредством ПО LOGiCAT. Информация о местоположении затем отображается на карте, удобно визуализируется, что позволяет лучше контролировать ход работ.",
     "characteristics": {
@@ -450,20 +389,15 @@
       "Частоты зонда": "8 кГц / 33 кГц"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/da6be55fd7cd14e453f8890acfd8f41fc689a65a-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/da6be55fd7cd14e453f8890acfd8f41fc689a65a-0.jpg"
     ],
-    "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      }
-    ]
+    "documents": null
   },
   {
     "name": "Трассоискатель Leica Digicat 750i",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digicat-750i",
+    "manufacturer": "Leica",
     "description_html": "Цифровые трассоискатели Leica Geosystems делают определение местоположения подземных коммуникаций проще, чемкогда-либо ранее. Причем возможен поиск силовых, осветительных и телекоммуникационных кабелей, трубопроводов, инспекционных камер. Трассоискатели Leica Digicat серии xf обнаруживают подземные токопроводящие коммуникации, получая излучаемые от них электромагнитные сигналы.\n\u003cbr/\u003eПрограммное обеспечение интерпретирует полученную информацию и выдает оператору звуковой и визуальный сигнал, показывающий\n\u003cbr/\u003eместоположение и направление подземной коммуникации. Дополнительные частоты трассировки 512 и 640 Гц увеличивают диапазон\n\u003cbr/\u003eпоиска и позволяют обнаруживать инспекционные колодцы. \n\u003cbr/\u003eИнтегрированная технология с GPS собирает данные о том, где использовался трассоискатель. Данные легко загрузить с трассоискателя на ПК, планшетный компьютер или мобильный телефон по беспроводной связи Bluetooth® посредством ПО LOGiCAT. Информация о местоположении затем отображается на карте, удобно визуализируется, что позволяет лучше контролировать ход работ.",
     "description_text": "Цифровые трассоискатели Leica Geosystems делают определение местоположения подземных коммуникаций проще, чемкогда-либо ранее. Причем возможен поиск силовых, осветительных и телекоммуникационных кабелей, трубопроводов, инспекционных камер. Трассоискатели Leica Digicat серии xf обнаруживают подземные токопроводящие коммуникации, получая излучаемые от них электромагнитные сигналы.\nПрограммное обеспечение интерпретирует полученную информацию и выдает оператору звуковой и визуальный сигнал, показывающий\nместоположение и направление подземной коммуникации. Дополнительные частоты трассировки 512 и 640 Гц увеличивают диапазон\nпоиска и позволяют обнаруживать инспекционные колодцы. \nИнтегрированная технология с GPS собирает данные о том, где использовался трассоискатель. Данные легко загрузить с трассоискателя на ПК, планшетный компьютер или мобильный телефон по беспроводной связи Bluetooth® посредством ПО LOGiCAT. Информация о местоположении затем отображается на карте, удобно визуализируется, что позволяет лучше контролировать ход работ.",
     "characteristics": {
@@ -486,20 +420,15 @@
       "Частоты зонда": "8 кГц / 33 кГц"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/5f1323bc78bfff56564d99ea1f91f7cd053b57ea-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/5f1323bc78bfff56564d99ea1f91f7cd053b57ea-0.jpg"
     ],
-    "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      }
-    ]
+    "documents": null
   },
   {
     "name": "Трассоискатель Leica Digicat 650i xf",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digicat-650i-xf",
+    "manufacturer": "Leica",
     "description_html": "Leica Digicat 650i поддерживает работу с полевым ГИС-контроллером, таким как Zeno 10 или 15, что позволяет бюджетно и эффективно организовать сбор геоданных и провести инвентаризацию подземных коммуникаций. \n\u003cbr/\u003eDigicat 650i xf и генератор Digitex используются для определения глубины заложения кабеля или трубы. Значение глубины передается в контроллер по Bluetooth, а ПО Leica Zeno field позволяет определить координаты объекта. Можно также дополнительно включать изображения и комментарии, такие как: Тип и диаметр коммуникации; Дата и время инвентаризациии; Техническое состояние; Имя оператора и примечание.",
     "description_text": "Leica Digicat 650i поддерживает работу с полевым ГИС-контроллером, таким как Zeno 10 или 15, что позволяет бюджетно и эффективно организовать сбор геоданных и провести инвентаризацию подземных коммуникаций. \nDigicat 650i xf и генератор Digitex используются для определения глубины заложения кабеля или трубы. Значение глубины передается в контроллер по Bluetooth, а ПО Leica Zeno field позволяет определить координаты объекта. Можно также дополнительно включать изображения и комментарии, такие как: Тип и диаметр коммуникации; Дата и время инвентаризациии; Техническое состояние; Имя оператора и примечание.",
     "characteristics": {
@@ -514,17 +443,12 @@
       "Степень защиты": "IP54"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/9331109079285cec9b723ee0ed889dfb181eaa75-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/d03e45e78ec9a97c2b07c3a2168f39fb3a594cfa-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/136f48f7c70ebced40c3c24bbe8369262c6bf0ff-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/ff85bcf2454ed13010dacd98127e206478db8c25-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/9331109079285cec9b723ee0ed889dfb181eaa75-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/d03e45e78ec9a97c2b07c3a2168f39fb3a594cfa-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/136f48f7c70ebced40c3c24bbe8369262c6bf0ff-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/ff85bcf2454ed13010dacd98127e206478db8c25-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-xf-series-broshyura.pdf",
@@ -546,6 +470,7 @@
     "name": "Трассоискатель Leica Digicat 100",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digicat-100",
+    "manufacturer": "Leica",
     "description_html": "2 активные частоты, макс. глубина 3 м.",
     "description_text": "2 активные частоты, макс. глубина 3 м.",
     "characteristics": {
@@ -557,23 +482,18 @@
       "Степень защиты": "IP54"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/446d8d8050305f69ec914015aa69cacf9780afb4-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/ddaf34494112ba014ba3a250900c967399c26c52-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/fca9d644ebcd3ea6cdb7ca4e81c9de286d8e02a8-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/0af831b631b807abf17fc7e7af5f5eb59f698d46-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/1ecff044c181d414699d483b81922ab3ada6eb38-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/d36affa85b4a93c9586b07f7f025bdba63482a02-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/446d8d8050305f69ec914015aa69cacf9780afb4-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/ddaf34494112ba014ba3a250900c967399c26c52-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/fca9d644ebcd3ea6cdb7ca4e81c9de286d8e02a8-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/0af831b631b807abf17fc7e7af5f5eb59f698d46-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/1ecff044c181d414699d483b81922ab3ada6eb38-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/d36affa85b4a93c9586b07f7f025bdba63482a02-0.jpg"
     ],
     "documents": [
       {
         "name": "leica-digicat-100-200-instrukcia",
         "url": "https://www.geooptic.ru/static/files/leica-digicat-100-200-instrukcia.pdf",
         "path": "documents/catalog/Categories/ndt-instruments/leica-digicat-100-200-instrukcia.pdf"
-      },
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Презентация: \"Обучение Leica Digicat\"",
@@ -591,6 +511,7 @@
     "name": "Трассоискатель Leica Digicat 200",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digicat-200",
+    "manufacturer": "Leica",
     "description_html": "",
     "description_text": "",
     "characteristics": {
@@ -602,18 +523,13 @@
       "Степень защиты": "IP54"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/6aec40d874ca38151b5b8e56d3a0d7ca2c55ab96-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/6aec40d874ca38151b5b8e56d3a0d7ca2c55ab96-0.jpg"
     ],
     "documents": [
       {
         "name": "leica-digicat-100-200-instrukcia",
         "url": "https://www.geooptic.ru/static/files/leica-digicat-100-200-instrukcia.pdf",
         "path": "documents/catalog/Categories/ndt-instruments/leica-digicat-100-200-instrukcia.pdf"
-      },
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
       },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
@@ -631,24 +547,20 @@
     "name": "Кабель (генератор - коммуникации) Leica 731666",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-731666",
+    "manufacturer": "Leica",
     "description_html": "Позволяет подключать передатчик отслеживаемого сигнала к розетке любой внутренней электрораспределительной системы.",
     "description_text": "Позволяет подключать передатчик отслеживаемого сигнала к розетке любой внутренней электрораспределительной системы.",
     "characteristics": {},
     "images": [
-      "https://www.geooptic.ru/static/thumbs/7213e3511fe2001263cab58f3d89369632ae4648-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/7213e3511fe2001263cab58f3d89369632ae4648-0.jpg"
     ],
-    "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      }
-    ]
+    "documents": null
   },
   {
     "name": "Трассоискатель Leica Ultra Standard",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-ultra",
+    "manufacturer": "Leica",
     "description_html": "Интеллектуальная обработка сигнала и большой набор режимов поисков гарантируют экономию времени и высокую точность результатов. \n\u003cbr/\u003e\n\u003cbr/\u003eДанный прибор специально ориентирован для коммунальных служб, чтобы гарантировано трассировать искомую коммуникацию среди большого числа других.\n\u003cbr/\u003e \n\u003cbr/\u003eКлючевые возможности: \n\u003cbr/\u003eТонкая настройка под любые условия окружающей среды или параметры искомых объектов - 100 программируемых шаблонов.\n\u003cbr/\u003e \n\u003cbr/\u003eИзмерение помех окружающей среды с интеллектуальной обработкой гарантирует надёжность результатов даже в самых запутанных и \u0026#34;шумных\u0026#34; местах.\n\u003cbr/\u003e \n\u003cbr/\u003eВозможность измерений со смещениями позволит трассировать положение измеряемого объекта.\n\u003cbr/\u003e \n\u003cbr/\u003eВозможность дистанционной связи позволит удалённо настраивать передатчик, значительно ускоряя работу при поиске коммуникаций по разным частотным диапазонам.\n\u003cbr/\u003e \n\u003cbr/\u003eБольшой и информативный ЖК дисплей с подсветкой отобразит всю необходимую информацию, а интеграция с GIS и GNSS позволит сразу сохранять данные в цифровом виде, обеспечивая простоту при картографировании. \n\u003cbr/\u003e\n\u003cbr/\u003eЕсть две версии локаторов: стандартная и расширенная",
     "description_text": "Интеллектуальная обработка сигнала и большой набор режимов поисков гарантируют экономию времени и высокую точность результатов. \n\nДанный прибор специально ориентирован для коммунальных служб, чтобы гарантировано трассировать искомую коммуникацию среди большого числа других.\n \nКлючевые возможности: \nТонкая настройка под любые условия окружающей среды или параметры искомых объектов - 100 программируемых шаблонов.\n \nИзмерение помех окружающей среды с интеллектуальной обработкой гарантирует надёжность результатов даже в самых запутанных и \"шумных\" местах.\n \nВозможность измерений со смещениями позволит трассировать положение измеряемого объекта.\n \nВозможность дистанционной связи позволит удалённо настраивать передатчик, значительно ускоряя работу при поиске коммуникаций по разным частотным диапазонам.\n \nБольшой и информативный ЖК дисплей с подсветкой отобразит всю необходимую информацию, а интеграция с GIS и GNSS позволит сразу сохранять данные в цифровом виде, обеспечивая простоту при картографировании. \n\nЕсть две версии локаторов: стандартная и расширенная",
     "characteristics": {
@@ -664,16 +576,11 @@
       "Точность определения глубины (локатор)": "±5%"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/daed0767f62d701bde1e8ef85f25300154399a53-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/3c57fa71c49f3508d96fd8afd5bbe51c0cf9af22-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/10230ca3af3dce68c9a9d2305ea4097aabdfbebb-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/daed0767f62d701bde1e8ef85f25300154399a53-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/3c57fa71c49f3508d96fd8afd5bbe51c0cf9af22-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/10230ca3af3dce68c9a9d2305ea4097aabdfbebb-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Технические характеристики Leica Ulta",
         "url": "https://www.geooptic.ru/static/files/leica-ultra.pdf",
@@ -685,6 +592,7 @@
     "name": "Трассоискатель Leica Ultra Advanced",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-ultra-advanced",
+    "manufacturer": "Leica",
     "description_html": "Интеллектуальная обработка сигнала и большой набор режимов поисков гарантируют экономию времени и высокую точность результатов. \n\u003cbr/\u003e\n\u003cbr/\u003eДанный прибор специально ориентирован для коммунальных служб, чтобы гарантировано трассировать искомую коммуникацию среди большого числа других. \n\u003cbr/\u003e\n\u003cbr/\u003eКлючевые возможности: \n\u003cbr/\u003eТонкая настройка под любые условия окружающей среды или параметры искомых объектов - 100 программируемых шаблонов. \n\u003cbr/\u003e\n\u003cbr/\u003eИзмерение помех окружающей среды с интеллектуальной обработкой гарантирует надёжность результатов даже в самых запутанных и \u0026#34;шумных\u0026#34; местах. \n\u003cbr/\u003e\n\u003cbr/\u003eВозможность измерений со смещениями позволит трассировать положение измеряемого объекта. \n\u003cbr/\u003e\n\u003cbr/\u003eВозможность дистанционной связи позволит удалённо настраивать передатчик, значительно ускоряя работу при поиске коммуникаций по разным частотным диапазонам. \n\u003cbr/\u003e\n\u003cbr/\u003eБольшой и информативный ЖК дисплей с подсветкой отобразит всю необходимую информацию, а интеграция с GIS и GNSS позволит сразу сохранять данные в цифровом виде, обеспечивая простоту при картографировании. \n\u003cbr/\u003e\n\u003cbr/\u003eЕсть две версии локаторов: стандартная и расширенная",
     "description_text": "Интеллектуальная обработка сигнала и большой набор режимов поисков гарантируют экономию времени и высокую точность результатов. \n\nДанный прибор специально ориентирован для коммунальных служб, чтобы гарантировано трассировать искомую коммуникацию среди большого числа других. \n\nКлючевые возможности: \nТонкая настройка под любые условия окружающей среды или параметры искомых объектов - 100 программируемых шаблонов. \n\nИзмерение помех окружающей среды с интеллектуальной обработкой гарантирует надёжность результатов даже в самых запутанных и \"шумных\" местах. \n\nВозможность измерений со смещениями позволит трассировать положение измеряемого объекта. \n\nВозможность дистанционной связи позволит удалённо настраивать передатчик, значительно ускоряя работу при поиске коммуникаций по разным частотным диапазонам. \n\nБольшой и информативный ЖК дисплей с подсветкой отобразит всю необходимую информацию, а интеграция с GIS и GNSS позволит сразу сохранять данные в цифровом виде, обеспечивая простоту при картографировании. \n\nЕсть две версии локаторов: стандартная и расширенная",
     "characteristics": {
@@ -701,16 +609,11 @@
       "Точность определения глубины (локатор)": "±5%"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/daed0767f62d701bde1e8ef85f25300154399a53-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/3c57fa71c49f3508d96fd8afd5bbe51c0cf9af22-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/10230ca3af3dce68c9a9d2305ea4097aabdfbebb-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/daed0767f62d701bde1e8ef85f25300154399a53-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/3c57fa71c49f3508d96fd8afd5bbe51c0cf9af22-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/10230ca3af3dce68c9a9d2305ea4097aabdfbebb-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Технические характеристики Leica Ulta",
         "url": "https://www.geooptic.ru/static/files/leica-ultra.pdf",
@@ -722,6 +625,7 @@
     "name": "Генератор Leica Transmitters 12 Wt",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-transmitters-12-wt",
+    "manufacturer": "Leica",
     "description_html": "Генератор Leica для трассопоискового локатора серии ULTRA мощьностью 12 ватт.",
     "description_text": "Генератор Leica для трассопоискового локатора серии ULTRA мощьностью 12 ватт.",
     "characteristics": {
@@ -734,14 +638,9 @@
       "Режим индукции": "256 Hz - 200  кГц"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/23adb75ffa5136f74dfcdede0f6f2b41455c8d43-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/23adb75ffa5136f74dfcdede0f6f2b41455c8d43-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Технические характеристики Leica Ulta",
         "url": "https://www.geooptic.ru/static/files/leica-ultra.pdf",
@@ -753,6 +652,7 @@
     "name": "Генератор Leica Transmitters Advanced",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-transmitters-advanced",
+    "manufacturer": "Leica",
     "description_html": "Генератор Leica для трассопоискового локатора серии ULTRA мощьностью 12 ватт.",
     "description_text": "Генератор Leica для трассопоискового локатора серии ULTRA мощьностью 12 ватт.",
     "characteristics": {
@@ -765,14 +665,9 @@
       "Режим индукции": "256 Hz - 200  кГц"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/23adb75ffa5136f74dfcdede0f6f2b41455c8d43-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/23adb75ffa5136f74dfcdede0f6f2b41455c8d43-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Технические характеристики Leica Ulta",
         "url": "https://www.geooptic.ru/static/files/leica-ultra.pdf",
@@ -784,6 +679,7 @@
     "name": "Генератор Leica Transmitters 5 Wt",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-transmitters-5-wt",
+    "manufacturer": "Leica",
     "description_html": "Генератор Leica для трассопоискового локатора серии ULTRA мощностью 5 ватт.",
     "description_text": "Генератор Leica для трассопоискового локатора серии ULTRA мощностью 5 ватт.",
     "characteristics": {
@@ -796,14 +692,9 @@
       "Режим индукции": "256 Hz - 200  кГц"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/23adb75ffa5136f74dfcdede0f6f2b41455c8d43-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/23adb75ffa5136f74dfcdede0f6f2b41455c8d43-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Технические характеристики Leica Ulta",
         "url": "https://www.geooptic.ru/static/files/leica-ultra.pdf",
@@ -815,23 +706,19 @@
     "name": "Генератор Leica Digitex 300t xf",
     "slug": "",
     "url": "https://www.geooptic.ru/product/leica-digitex-300t-xf",
+    "manufacturer": "Leica",
     "description_html": "Двухчастотный генератор сигналов. Разработанный для использования с локаторами Leica Digicat позволяем легко обнаружить и точно проследить направление подземных коммуникаций",
     "description_text": "Двухчастотный генератор сигналов. Разработанный для использования с локаторами Leica Digicat позволяем легко обнаружить и точно проследить направление подземных коммуникаций",
     "characteristics": {
       "Гарантия": "1 год"
     },
     "images": [
-      "https://www.geooptic.ru/static/thumbs/2a2270958d0b5d8144d07ee0ab9605a58e86472d-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/02001bb9b35d13c2dbc67a32dd657bee22c2e9ea-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/6868d5e0d50662cf2f4fc0abde70660e9ed08aec-1.jpg",
-      "https://www.geooptic.ru/static/thumbs/ff85bcf2454ed13010dacd98127e206478db8c25-1.jpg"
+      "https://www.geooptic.ru/static/thumbs/2a2270958d0b5d8144d07ee0ab9605a58e86472d-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/02001bb9b35d13c2dbc67a32dd657bee22c2e9ea-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/6868d5e0d50662cf2f4fc0abde70660e9ed08aec-0.jpg",
+      "https://www.geooptic.ru/static/thumbs/ff85bcf2454ed13010dacd98127e206478db8c25-0.jpg"
     ],
     "documents": [
-      {
-        "name": "Сертификат дилера Leica Geosystems AG (2022 год)",
-        "url": "https://www.geooptic.ru/static/files/geooptic_sertificate_2022.pdf",
-        "path": "documents/catalog/Categories/ndt-instruments/Сертификат дилера Leica Geosystems AG (2022 год).pdf"
-      },
       {
         "name": "Leica Digisystem серия xf «Интеллектуальные» трассоискатели и генераторы сигнала",
         "url": "https://www.geooptic.ru/static/files/leica-digisystem-xf-series-broshyura.pdf",

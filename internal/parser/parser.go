@@ -2,9 +2,9 @@ package parser
 
 import (
 	"context"
-	"log"
 
 	"geooptic-parser-chromedp/models"
+	"log"
 )
 
 type Parser struct {
@@ -18,7 +18,14 @@ func NewParser(ctx context.Context) *Parser {
 }
 func (p *Parser) Run() error {
 
-	for _, category := range Categories {
+	for _, category := range []Category{
+		{
+			Slug:         "accessories",
+			URL:          "https://www.geooptic.ru/catalog/aksessuary",
+			FilterValue:  "1",
+			Manufacturer: "Leica Geosystems",
+		},
+	} {
 
 		links, err := p.GetProductLinks(category)
 		if err != nil {
@@ -39,17 +46,17 @@ func (p *Parser) Run() error {
 			products = append(products, product)
 		}
 
-		// ↓ Скачиваем изображения
-		// if err := DownloadImages(products); err != nil {
-		//     return err
-		// }
+		// Скачиваем изображения
+		if err := DownloadImages(products, category.Slug); err != nil {
+			return err
+		}
 
-		// ↓ Сохраняем документы
+		// Скачиваем документы
 		if err := DownloadDocuments(products, category.Slug); err != nil {
 			return err
 		}
 
-		// ↓ Сохраняем товары
+		// Сохраняем JSON
 		if err := SaveProducts(products, category.Slug); err != nil {
 			return err
 		}
