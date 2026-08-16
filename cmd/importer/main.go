@@ -31,7 +31,7 @@ func main() {
 		{"data/laser-rangefinders.json", "laser-rangefinders", "Leica Geosystems"},
 		{"data/levels.json", "levels", "Leica Geosystems"},
 		{"data/ndt-instruments.json", "ndt-instruments", "Leica Geosystems"},
-		{"data/software.json", "software", "Leica Geosystems"},
+		{"data/software.json", "software", ""},
 		{"data/total-stations.json", "total-stations", "Leica Geosystems"},
 
 		// =========================
