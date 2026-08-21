@@ -89,22 +89,20 @@ INSERT INTO oc_product_description
 	meta_keyword
 )
 VALUES
-(
-	?,
-	1,
-	?,
-	?,
-	'',
-	?,
-	?,
-	''
-)
+	(?, 1, ?, ?, '', ?, ?, ''),
+	(?, 2, ?, ?, '', ?, ?, '')
 `,
 		productID,
 		product.Name,
 		product.DescriptionHTML,
-		product.Name,    // meta_title
-		metaDescription, // meta_description
+		product.Name,
+		metaDescription,
+
+		productID,
+		product.Name,
+		product.DescriptionHTML,
+		product.Name,
+		metaDescription,
 	)
 
 	if err != nil {
